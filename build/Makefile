@@ -1,19 +1,21 @@
 .PHONY: all clean help
 
-all:
+all: emojis assets
 
-clean:
+clean: emojis.clean twemoji.clean
 
 help:
 	@echo "build mi-openmojiset"
 	@echo ""
 	@echo "Meta targets:"
-	@echo "* all   | build all targets"
-	@echo "* clean | clean build directory"
+	@echo "* all    | build all targets"
+	@echo "* assets | build all assets"
+	@echo "* clean  | clean build directory"
 	@echo "Individual targets:"
-	@echo "> "
+	@echo "> twemoji"
 	@echo "* <target>.clean | clean target"
 
-assets:
+assets: twemoji
 
 include emojis.mk
+include twemoji.mk
