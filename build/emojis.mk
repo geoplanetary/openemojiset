@@ -10,7 +10,7 @@ emojis.clean:
 	-mkdir -p emojis && \
 	touch .emojis.pre
 
-emojis.zip: .emojis.pre barcode twemoji
-	cp -t emojis/ barcode/*.png twemoji/*.png
-	.script/merge_metadata.sh  barcode/meta.json twemoji/meta.json > emojis/meta.json
+emojis.zip: .emojis.pre barcode squared twemoji
+	cp -t emojis/ barcode/*.png squared/dialect-ja/*.png squared/general-ja/*.png squared/かわいい-ja/*.png twemoji/*.png
+	.script/merge_metadata.sh  barcode/meta.json squared/dialect-ja/meta.json squared/general-ja/meta.json squared/かわいい-ja/meta.json twemoji/meta.json > emojis/meta.json
 	cd emojis/ && zip ../emojis.zip meta.json ./*.png
