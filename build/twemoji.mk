@@ -11,7 +11,7 @@ twemoji.clean:
 	touch .twemoji.pre
 
 twemoji/meta.json: .twemoji.pre ../twemoji/meta.json
-	jq -c '.' ../twemoji/meta.json > twemoji/meta.json
+	.script/build_metadata.sh ../twemoji/meta.json > twemoji/meta.json
 
 twemoji/squared_16.png: .twemoji.pre ../twemoji/squared_16.svg
 	resvg -z 4.0 --dpi 384 ../twemoji/squared_16.svg twemoji/squared_16.png && optipng -q twemoji/squared_16.png

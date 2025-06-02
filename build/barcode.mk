@@ -11,7 +11,7 @@ barcode.clean:
 	touch .barcode.pre
 
 barcode/meta.json: .barcode.pre ../barcode/meta.json
-	jq -c '.' ../barcode/meta.json > barcode/meta.json
+	.script/build_metadata.sh ../barcode/meta.json > barcode/meta.json
 
 barcode/ean13_4901777192607.png: .barcode.pre ../barcode/ean/ean13_4901777192607.svg
 	resvg -z 4.0 --dpi 384 ../barcode/ean/ean13_4901777192607.svg barcode/ean13_4901777192607.png && optipng -q barcode/ean13_4901777192607.png
