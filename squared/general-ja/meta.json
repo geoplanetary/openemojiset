@@ -1,0 +1,89 @@
+[
+	{
+		"name": "squared_almostlycorrect",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"だいたいあってる",
+			"daitai_atteru"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "squared_didextravagance",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"散財した",
+			"sanzai_sita"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "squared_drinkthemall",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ぜんぶのむ",
+			"全部飲む",
+			"zenbu_nomu"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "squared_eatthemall",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ぜんぶたべる",
+			"全部食べる",
+			"zenbu_taberu"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "squared_iamacatbutiknow",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ねこだけどわかった！",
+			"neko_dakedo_wakatta"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "squared_idontknowbecauseiamacat",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ねこだからわかんにゃい",
+			"neko_dakara_wakannyai"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "squared_pettingthemall",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ぜんぶなでる",
+			"全部撫でる",
+			"zenbu_naderu"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]

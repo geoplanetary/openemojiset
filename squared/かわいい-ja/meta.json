@@ -1,0 +1,50 @@
+[
+	{
+		"name": "squared_cuteeverything",
+		"category": "squared/かわいい-ja",
+		"type": "image/png",
+		"aliases": [
+			"ぜんぶかわいい",
+			"zenbu_kawaii"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "squared_cutemydaughter",
+		"category": "squared/かわいい-ja",
+		"type": "image/png",
+		"aliases": [
+			"うちのこかわいい",
+			"utinoko_kawaii"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "squared_cuteothersdaughter",
+		"category": "squared/かわいい-ja",
+		"type": "image/png",
+		"aliases": [
+			"よそのこかわいい",
+			"yosonoko_kawaii"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "squared_cutethis",
+		"category": "squared/かわいい-ja",
+		"type": "image/png",
+		"aliases": [
+			"このこかわいい",
+			"konoko_kawaii"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]
