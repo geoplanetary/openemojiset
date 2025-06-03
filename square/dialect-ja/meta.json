@@ -1,47 +1,68 @@
 [
 	{
-		"name": "squared_cuteeverything",
-		"category": "squared/かわいい-ja",
+		"name": "square_gominageshita",
+		"category": "squared/dialect-ja",
 		"type": "image/png",
 		"aliases": [
-			"ぜんぶかわいい",
-			"zenbu_kawaii"
+			"ゴミなげした",
+			"ゴミ捨てた",
+			"gomi_nage_sita"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "squared_cutemydaughter",
-		"category": "squared/かわいい-ja",
+		"name": "square_menkoi",
+		"category": "squared/dialect-ja",
 		"type": "image/png",
 		"aliases": [
-			"うちのこかわいい",
-			"utinoko_kawaii"
+			"めんこい",
+			"かわいい",
+			"menkoi"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "squared_cuteothersdaughter",
-		"category": "squared/かわいい-ja",
+		"name": "square_osasatta",
+		"category": "squared/dialect-ja",
 		"type": "image/png",
 		"aliases": [
-			"よそのこかわいい",
-			"yosonoko_kawaii"
+			"押ささった",
+			"押された",
+			"押した",
+			"osasatta"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "squared_cutethis",
-		"category": "squared/かわいい-ja",
+		"name": "square_shibareru",
+		"category": "squared/dialect-ja",
 		"type": "image/png",
 		"aliases": [
-			"このこかわいい",
-			"konoko_kawaii"
+			"しばれる",
+			"凍る",
+			"寒い",
+			"sibareru"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_wayadawa",
+		"category": "squared/dialect-ja",
+		"type": "image/png",
+		"aliases": [
+			"わやだわ",
+			"さんざん",
+			"むちゃくちゃ",
+			"しっちゃかめっちゃか",
+			"wayadawa"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,

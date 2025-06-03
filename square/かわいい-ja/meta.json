@@ -1,68 +1,47 @@
 [
 	{
-		"name": "squared_badly_hokkaido_dialect",
-		"category": "squared/dialect-ja",
+		"name": "square_konokokawaii",
+		"category": "squared/かわいい-ja",
 		"type": "image/png",
 		"aliases": [
-			"わやだわ",
-			"さんざん",
-			"むちゃくちゃ",
-			"しっちゃかめっちゃか",
-			"wayadawa"
+			"このこかわいい",
+			"konoko_kawaii"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "squared_cute_hokkaido_dialect",
-		"category": "squared/dialect-ja",
+		"name": "square_uchinokokawaii",
+		"category": "squared/かわいい-ja",
 		"type": "image/png",
 		"aliases": [
-			"めんこい",
-			"かわいい",
-			"menkoi"
+			"うちのこかわいい",
+			"utinoko_kawaii"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "squared_freeze_hokkaido_dialect",
-		"category": "squared/dialect-ja",
+		"name": "square_yosonokokawaii",
+		"category": "squared/かわいい-ja",
 		"type": "image/png",
 		"aliases": [
-			"しばれる",
-			"凍る",
-			"寒い",
-			"sibareru"
+			"よそのこかわいい",
+			"yosonoko_kawaii"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "squared_pushtomistake_hokkaido_dialect",
-		"category": "squared/dialect-ja",
+		"name": "square_zenbukawaii",
+		"category": "squared/かわいい-ja",
 		"type": "image/png",
 		"aliases": [
-			"押ささった",
-			"押された",
-			"押した",
-			"osasatta"
-		],
-		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
-		"localOnly": false,
-		"isSensitive": false
-	},
-	{
-		"name": "squared_threwaraythetrash_hokkaido_dialect",
-		"category": "squared/dialect-ja",
-		"type": "image/png",
-		"aliases": [
-			"ゴミなげした",
-			"ゴミ捨てた",
-			"gomi_nage_sita"
+			"ぜんぶかわいい",
+			"zenbu_kawaii"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,

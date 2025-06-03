@@ -1,6 +1,6 @@
 [
 	{
-		"name": "squared_almostlycorrect",
+		"name": "square_daitaiatteru",
 		"category": "squared/general-ja",
 		"type": "image/png",
 		"aliases": [
@@ -12,7 +12,31 @@
 		"isSensitive": false
 	},
 	{
-		"name": "squared_didextravagance",
+		"name": "square_nekodakarawannnyai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ねこだからわかんにゃい",
+			"neko_dakara_wakannyai"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_nekodakedowakatta_exclam",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ねこだけどわかった！",
+			"neko_dakedo_wakatta"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_sanzaishita",
 		"category": "squared/general-ja",
 		"type": "image/png",
 		"aliases": [
@@ -24,7 +48,20 @@
 		"isSensitive": false
 	},
 	{
-		"name": "squared_drinkthemall",
+		"name": "square_zenbunaderu",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ぜんぶなでる",
+			"全部撫でる",
+			"zenbu_naderu"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_zenbunomu",
 		"category": "squared/general-ja",
 		"type": "image/png",
 		"aliases": [
@@ -37,50 +74,13 @@
 		"isSensitive": false
 	},
 	{
-		"name": "squared_eatthemall",
+		"name": "square_zenbutaberu",
 		"category": "squared/general-ja",
 		"type": "image/png",
 		"aliases": [
 			"ぜんぶたべる",
 			"全部食べる",
 			"zenbu_taberu"
-		],
-		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
-		"localOnly": false,
-		"isSensitive": false
-	},
-	{
-		"name": "squared_iamacatbutiknow",
-		"category": "squared/general-ja",
-		"type": "image/png",
-		"aliases": [
-			"ねこだけどわかった！",
-			"neko_dakedo_wakatta"
-		],
-		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
-		"localOnly": false,
-		"isSensitive": false
-	},
-	{
-		"name": "squared_idontknowbecauseiamacat",
-		"category": "squared/general-ja",
-		"type": "image/png",
-		"aliases": [
-			"ねこだからわかんにゃい",
-			"neko_dakara_wakannyai"
-		],
-		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
-		"localOnly": false,
-		"isSensitive": false
-	},
-	{
-		"name": "squared_pettingthemall",
-		"category": "squared/general-ja",
-		"type": "image/png",
-		"aliases": [
-			"ぜんぶなでる",
-			"全部撫でる",
-			"zenbu_naderu"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,
