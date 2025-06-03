@@ -1,0 +1,72 @@
+[
+	{
+		"name": "blobbluebird",
+		"category": "Blobs/Blobbluebird",
+		"type": "image/webp",
+		"aliases": [
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2023 櫻木弓弦(@Yuzuru_Sakuragi@misskey.io), 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://misskey.io/@Yuzuru_Sakuragi/pages/1707276961101",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbluebirdbandaid",
+		"category": "Blobs/Blobbluebird",
+		"type": "image/webp",
+		"aliases": [
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2023 櫻木弓弦(@Yuzuru_Sakuragi@misskey.io), 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://misskey.io/@Yuzuru_Sakuragi/pages/1707276961101",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbluebirdcry",
+		"category": "Blobs/Blobbluebird",
+		"type": "image/webp",
+		"aliases": [
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2023 櫻木弓弦(@Yuzuru_Sakuragi@misskey.io), 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://misskey.io/@Yuzuru_Sakuragi/pages/1707276961101",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbluebirdtear",
+		"category": "Blobs/Blobbluebird",
+		"type": "image/webp",
+		"aliases": [
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2023 櫻木弓弦(@Yuzuru_Sakuragi@misskey.io), 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://misskey.io/@Yuzuru_Sakuragi/pages/1707276961101",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbluebirdtravelling",
+		"category": "Blobs/Blobbluebird",
+		"type": "image/webp",
+		"aliases": [
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2023 櫻木弓弦(@Yuzuru_Sakuragi@misskey.io), 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://misskey.io/@Yuzuru_Sakuragi/pages/1707276961101",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbluebirduwu",
+		"category": "Blobs/Blobbluebird",
+		"type": "image/webp",
+		"aliases": [
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2023 櫻木弓弦(@Yuzuru_Sakuragi@misskey.io), 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://misskey.io/@Yuzuru_Sakuragi/pages/1707276961101",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbluebirdverified",
+		"category": "Blobs/Blobbluebird",
+		"type": "image/webp",
+		"aliases": [
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2023 櫻木弓弦(@Yuzuru_Sakuragi@misskey.io), 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://misskey.io/@Yuzuru_Sakuragi/pages/1707276961101",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]
