@@ -1,0 +1,295 @@
+[
+	{
+		"name": "shapez_blueprint",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"ブループリント",
+			"CbCbCbRb:CwCwCwCw"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_bluerectangleright",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"RbRb----"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_circle",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"CuCuCuCu"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_circleleft",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"----CuCu"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_circletop",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"Cu----Cu"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_circletopright",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"Cu------"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_compass",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"コンパス",
+			"CcRcCcRc:RwCwRwCw:Sr--Sw--:CyCyCyCy"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_cyanstar",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"ScScScSc"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_fan",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"扇風機",
+			"CbRbRbCb:CwCwCwCw:WbWbWbWb"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_filter",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"CrCwCrCw:CwCrCwCr:CrCwCrCw:CwCrCwCr"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_level11",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"CgScScCg"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_level13",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"RpRpRpRp:CwCwCwCw"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_level15",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"SrSrSrSr:CyCyCyCy"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_level16",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"SrSrSrSr:CyCyCyCy:SwSwSwSw"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_level18",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"Sg----Sg:CgCgCgCg:--CyCy--"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_level19",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"CpRpCp--:SwSwSwSw"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_level23",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"CcSyCcSy:SyCcSyCc:CcSyCcSy"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_level25",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"Rg--Rg--:CwRwCwRw:--Rg--Rg"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_logo",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"shapez",
+			"RuCw--Cw:----Ru--"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_melon",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"スイカ",
+			"----Cg--:----Cr--"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_meter",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"メーター",
+			"Cg----Cr:Cw----Cw:Sy------:Cy----Cy"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_purplecircle",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"CpCpCpCp"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_rectangle",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"RuRuRuRu"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_rectangleright",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"RuRu----"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_redcircle",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"CrCrCrCr"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "shapez_rocket",
+		"category": "Game/shapez",
+		"type": "image/png",
+		"aliases": [
+			"ロケット",
+			"CbCuCbCu:Sr------:--CrSrCr:CwCwCwCw"
+		],
+		"license": "GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0), Created by zawa-ch.(@stellar_ch@geoplanetary.net). see https://github.com/zawa-ch/mi-openmojiset",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]
