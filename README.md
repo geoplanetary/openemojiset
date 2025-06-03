@@ -10,5 +10,8 @@ Misskey 、もしくはそのフォークサーバーで使用することを想
 
 このリポジトリに収録されているカスタム絵文字の製作者に感謝します。
 
+- Blob emoji(Google Inc. & Arjen Nienhuis)
+- Meowmoji (community)
+- NewHorizons & Blob Hub™ Designer Team
 - 桜川七帆 ([@nanairo3977@m.77iro.life](https://m.77iro.life/@nanairo3977))
 - 櫻木弓弦 ([@Yuzuru_Sakuragi@misskey.io](https://misskey.io/@Yuzuru_Sakuragi))
