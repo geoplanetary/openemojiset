@@ -1,11 +1,127 @@
 [
 	{
+		"name": "neon_heart_enclosed_suki",
+		"category": "squared/general-ja",
+		"type": "image/gif",
+		"aliases": [
+			"すき",
+			"suki_neon"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "orange_squared_ajimishitai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"あじみしたい",
+			"azimisitai"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "square_daitaiatteru",
 		"category": "squared/general-ja",
 		"type": "image/png",
 		"aliases": [
 			"だいたいあってる",
 			"daitai_atteru"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_dokushinkizoku",
+		"category": "squared/general-ja",
+		"type": "image/gif",
+		"aliases": [
+			"独身貴族",
+			"どくしんきぞく",
+			"dokusin_kizoku"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_fuwamoko",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ふわもこ",
+			"fuwa_moko"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_hotondomahou",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ほとんど魔法",
+			"ほとんどまほう",
+			"hotondo_mahou"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_ideograph_continuousworker_renkinjutsushi",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"連勤術師",
+			"錬金術師",
+			"れんきんじゅつし",
+			"rennkinn_jutsusi"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_kawaisugitemahou",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"かわいすぎて魔法",
+			"かわいすぎてまほう",
+			"かわいい",
+			"kawaisugite_mahou"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_kyuusai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"救済",
+			"きゅうさい",
+			"kyuusai"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_meigen",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"名言",
+			"めいげん",
+			"meigen"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,
@@ -36,12 +152,38 @@
 		"isSensitive": false
 	},
 	{
+		"name": "square_oishisugitemahou",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"おいしすぎて魔法",
+			"おいしすぎてまほう",
+			"かわいい",
+			"oishisugite_mahou"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "square_sanzaishita",
 		"category": "squared/general-ja",
 		"type": "image/png",
 		"aliases": [
 			"散財した",
 			"sanzai_sita"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_soushisousai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"相思相愛",
+			"sousisouai"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,
@@ -81,6 +223,18 @@
 			"ぜんぶたべる",
 			"全部食べる",
 			"zenbu_taberu"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "swaying_square_nadenadefes",
+		"category": "squared/general-ja",
+		"type": "image/gif",
+		"aliases": [
+			"なでなでFES",
+			"nadenade_fes"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,

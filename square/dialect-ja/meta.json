@@ -26,6 +26,19 @@
 		"isSensitive": false
 	},
 	{
+		"name": "square_nukui",
+		"category": "squared/dialect-ja",
+		"type": "image/png",
+		"aliases": [
+			"ぬくい",
+			"あったかい",
+			"square_nukui"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "square_osasatta",
 		"category": "squared/dialect-ja",
 		"type": "image/png",
@@ -48,6 +61,20 @@
 			"凍る",
 			"寒い",
 			"sibareru"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_syakkoi",
+		"category": "squared/dialect-ja",
+		"type": "image/png",
+		"aliases": [
+			"しゃっこい",
+			"冷たい",
+			"つめたい",
+			"syakkoi"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,
