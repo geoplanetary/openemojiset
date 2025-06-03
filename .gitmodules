@@ -1,0 +1,3 @@
+[submodule "submodules/blobtoolkit"]
+	path = submodules/blobtoolkit
+	url = https://gitlab.com/iNewHorizons/blobtoolkit
