@@ -345,4 +345,3 @@ blobs/blobfox/meta.json: ../blobs/blobfox/meta.json blobs/.blobfox.pre
 blobs/blobfox/%.png: ../blobs/blobfox/%.png blobs/.blobfox.pre
 	cp $< $@
 	optipng -q --fix $@
-

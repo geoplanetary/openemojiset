@@ -364,7 +364,7 @@ blobs/meowmoji: \
   blobs/meowmoji/meowpuffyblep.png \
   blobs/meowmoji/meowpuffymorning.png \
   blobs/meowmoji/meowpuffyevening.png \
-  blobs/meowmoji/meowpuffybigeyes.png \
+  blobs/meowmoji/meowpuffybigeyes.png
 
 blobs/meowmoji.clean:
 	-rm -rf blobs/meowmoji/
