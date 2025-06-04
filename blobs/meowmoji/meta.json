@@ -1986,7 +1986,7 @@
 		"aliases": [],
 		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Meowmoji community, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
 		"localOnly": false,
-		"isSensitive": false
+		"isSensitive": true
 	},
 	{
 		"name": "meowreachsad",
@@ -2193,7 +2193,7 @@
 		"aliases": [],
 		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Meowmoji community, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
 		"localOnly": false,
-		"isSensitive": false
+		"isSensitive": true
 	},
 	{
 		"name": "meowpins",
@@ -3093,7 +3093,7 @@
 		"aliases": [],
 		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Meowmoji community, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
 		"localOnly": false,
-		"isSensitive": false
+		"isSensitive": true
 	},
 	{
 		"name": "meowpuffyfux",
@@ -3102,7 +3102,7 @@
 		"aliases": [],
 		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Meowmoji community, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
 		"localOnly": false,
-		"isSensitive": false
+		"isSensitive": true
 	},
 	{
 		"name": "meowpuffyzoomfux",
@@ -3111,7 +3111,7 @@
 		"aliases": [],
 		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Meowmoji community, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
 		"localOnly": false,
-		"isSensitive": false
+		"isSensitive": true
 	},
 	{
 		"name": "meowpuffymelt",
