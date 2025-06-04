@@ -1,0 +1,4925 @@
+[
+	{
+		"name": "blobgoodnightreverse",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobgoodmorningreverse",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobgoodmorning",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobowo2",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcouple",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobokhand",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobrageangry",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobconcerned",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsad",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobenjoyrain",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsunglasses",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobtonguewink",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsigh",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobwink",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobgrin",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsmile",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobnervous",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobangel",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobnogood",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobrollingeyes",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsweating",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobscream",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobgrimace",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobunamused",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobcry",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobdizzy",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsleep",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobweary",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobflushed",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobwoahsnow",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobwoah",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobhungry",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobmaracas",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsplosion",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobraisehand",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobdancer",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobonfire",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobblastoff",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ajakeblob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobgift",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobjoin",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobleave",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobcouncil",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobcolorshift",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobhydraulicpress",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglethumbsup",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglecat",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglecake",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglethumbsdown",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobmelting",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobwobroll",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blob0w0",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobwobwork",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsleepy",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnomcookie",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobnomcookie",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobpropeller",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobenjoy",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobbonk",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobnote",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobnervous2",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobreachsob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsaxophone",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobwavesob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobenjoysnow",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobstare",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcocoa",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthinkingeyes",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobthinkingeyes",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnight",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobmorning",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglehearts",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobderpytrap",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobderpytrap",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpartlysunny",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthinkingglare",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobparty",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobparty",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsmiletear",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobbass",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobdrum",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobguitar",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobkeyboard",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobmicrophone",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobpeek",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobomo",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobangry2",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobono",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobovo",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobeyesdown",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobeyesup",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbathtub",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobheadshake",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobgoodnightreverse",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobgoodnight",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobdrool",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobblewobble",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobwob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobunamused",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "adontfeelsoblob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "abongoblob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobderpy",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobderpyhappy",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbonk",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobmeltsoblove",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobrage",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthonkang",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsneezing",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobshh",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobgiggle",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobdrool",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobdoubtful",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnerd",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthumbsdown",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobhyperthinkfast",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthinkingfast",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobwhistle",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcmereyou",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobwaitwhat",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobdoubt",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobstop",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobgo",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsip",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobrage",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobmeltblush",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobooh",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobmeltsob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobembarrassed",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobderpyhappy",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobderpy",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobamused",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobspy",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobwob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfacepalm",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobdead",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobwoah",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobangery",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobcongarollbounce",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobnwn",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobhologram",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "redtick",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "greentick",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsalute",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsalute",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobbanhammer",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobthinkzerogravity",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobpopcorn",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpopcorn",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthinkingdown",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobwavereverse",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobwave",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobmelt",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bloblul",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "apartyblob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsweats",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobhype",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobowo",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobglarezoombutfast",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsnuggle",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobpats",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpats",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbanhammer",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "photoblob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpolice",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "aphotoblob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthinking",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobpanic",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "awolfiriblob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "notlikeblob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobuwu",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthumbsup",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsweats",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobowoevil",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobowo",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobglare",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcheer",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobattentionreverse",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobattention",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ab1nzyblob2",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "b1nzyblob2",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsquish",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "abloblurk",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "acongablob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobthinking",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobheart",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobjoy",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bolb",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobreach",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobreachreverse",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobglarezoom",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobrollbounce",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobhearteyes",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobkiss",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobcheer",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobnom",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobreach",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobuwu",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobthinkingfast",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "thinkingwithblobs",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobreachreverse",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnom",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsad",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "b1nzyblob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobkissheart",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "b4nzyblob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "feelsblobman",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "wolfiriblob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobhyperthink",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobblush",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobinlove",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blob3cevil",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobowosquint",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobshrug",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobwhistle",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobreachfrown",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobangrypuff",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpanic2",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcomfort",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnote",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobplsnospam",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsweatsweary",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobenjoy",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bloblamp",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "abloblamp",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobmeltsoblove",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobcouple",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsecret",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsmilehappy",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfingerguns",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobembarrassed2",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "athinkingwithblobs",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobhug2",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfingerscrossed",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blob3c",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobno",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobyes",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpain",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bloboohcry",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobdundundun",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobstare",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobcaramelldansen",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobhop",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsquare",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobmousetrap",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobhmpf",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobmelt",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blob3cuwu",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobglareannoyed",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobtoiletflush",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobdizzy2",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobwhee",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobwavesob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnomnom",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobzerogravity",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "amegablobsweats",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobconfounded",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobaffection",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsleeping",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobpainrain",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobconfused",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobnodfast",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobbouncefast",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfistshake",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobexpressionless",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobtrans",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobtrans",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "arainblob",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobhushed",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobjam",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpeek",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobwoahopenmouth",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsus",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobslightsmile",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobglitch",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobgrumpy",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsurpriseblush",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobnod",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bloberm",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googleredheart",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobabducted",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobgiggle",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsmooch",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobanvil",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobbounce",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobreachfront",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsadrain",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlegift",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlechristmastree",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobaww",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobaww",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobshrug",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobwave",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobwavereverse",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsadrain",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsadpats",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobsadpats",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobpainpats",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpainpats",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobgoodnight",
+		"category": "Blobs/BlobEmoji/1.BlobEmoji",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsmilehappy",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobtongue",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobangry",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsmile",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobupset",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobjoy",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcheeky",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfrowningbig",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfrowning",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfrown",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobopenmouth",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnervous",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobyum",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcheerful",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobrofl",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsmiley",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobwink",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobupsidedown",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsmilesweat2",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobugh",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobangel",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobtonguewink",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsmilehappyeyes",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobgrin",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnogood",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpray",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobrollingeyes",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agoogleturtle",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agoogletada",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglerainbowheart",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agoogleclap",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglebrokenheart",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglebee",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agoogle100",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobneutral",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobscream",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobgrimace",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobtriumph",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpensive",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobdetective",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsunglasses",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcool",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobok",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsleeping",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsmilesweat",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobpanic2",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobtired",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobweary",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobvomiting",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobdizzy",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobhug",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobhearteyes",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsmirk",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfearful",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcheerful2",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpanic",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbowing",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcry",
+		"category": "Blobs/BlobEmoji/2.GoogleBlobs",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnauseated",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnomouth",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsleepless",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpout",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsurprised",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbandage",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobtilt",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobzippermouth",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobyikes",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnwn",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bloboverheated",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbroken",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobimfine",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfreezing",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobreachdrool",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsick",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobwoozy",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobstarstruck",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobxd",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsmirk2",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobflushed",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthanks",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpout2",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobglarepolice",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfacemask",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnervouspleading",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobrelieved",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpensivepray",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbored",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobreachsob",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobunsure",
+		"category": "Blobs/BlobEmoji/3.Emotions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobmlem",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobtipping",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobslide",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnervous2",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnomchocolate",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobbathtub",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsquee",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnomchristmas",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobidea",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpin",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpopsicle",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobhuh",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsplosion",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobonfire",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthis",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobglassesdown",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnostar",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobdisapproval",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobtorch",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobmaracas",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthinksmart",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobmoustache",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsobglasses",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobworried",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpan",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpleading",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthump",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobteefs",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthinkingsmirk",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthinkingcool",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobkissblush",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobmindblown",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobawkward",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobyawn",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobtriumph2",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnostar2",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobhighfive",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobdancer",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfistbumpL",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfistbumpR",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobkiss",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobeyesdown",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobeyesup",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpoll",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobdisguise",
+		"category": "Blobs/BlobEmoji/4.Actions",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "nellyblob",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobjam",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfirefighter",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bloboutage",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobsanta",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "superblob",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "rickblob",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobeagle",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpumpkin",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobstudent",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobscarf",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobaviator",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnomglobal3",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnomglobal2",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnomglobal1",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobwooloo",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobboost",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnitro",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcamera",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobwizard",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "jakeblob",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "wumpusblob",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobdoctor",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bloboro",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobgamer",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobworker",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpoliceangery",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobartist",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobspam",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpirate",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobdevil",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "pikablob",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "gentleblob",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcowboy",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobhero",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcouncil",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobbot",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobwitch",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobmail",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "kirbyblob",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "pusheenblob",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobninja",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobross",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "nikoblob",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobpatrol",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobgift",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobdevil",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobdevilsmile",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobhypesquad",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "rainblob",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobpumpkin",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobthief",
+		"category": "Blobs/BlobEmoji/5.Characters",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlesnail",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googledog",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlefire",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googleghost",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlepenguin",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlesnake",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googleturtle",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agoogleoctopus",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglemonkey",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglebell",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglesun",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglesnail",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglebomb",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglepeach",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlegun",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlerabbit",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "pandablob",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googleoctopus",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlerat",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglewine",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglecheers",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "agooglepoop",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/gif",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlepanda",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobblackcat",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfrog",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobnook",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobcat",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "doggoblob",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ferretblob",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "reindeerblob",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlecrab",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlebee",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googleduck",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlebird",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googleeagle",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlepizza",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlelion",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlekoala",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlesheep",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlepig",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlegoat",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googleicecream",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googledove",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlecow",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlesquirrel",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlechicken",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlechick",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlebear",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlemouse",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googleblueheart",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlecake",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlecat",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlecatface",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlecatheart",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlefox",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlewhale",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlescorpion",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlemuscleR",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "googlemuscleL",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobgoat",
+		"category": "Blobs/BlobEmoji/6.Google+Animals",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://blobs.gg/",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]
