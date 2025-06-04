@@ -4,6 +4,8 @@
 
 最終更新日: 2020-09-04
 
+ソース URL: https://volpeon.ink/emojis/blobfox/
+
 ## ライセンス
 
 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)
