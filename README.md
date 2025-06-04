@@ -13,5 +13,6 @@ Misskey 、もしくはそのフォークサーバーで使用することを想
 - Blob emoji(Google Inc. & Arjen Nienhuis)
 - Meowmoji (community)
 - NewHorizons & Blob Hub™ Designer Team
+- [Volpeon](https://volpeon.ink/)
 - 桜川七帆 ([@nanairo3977@m.77iro.life](https://m.77iro.life/@nanairo3977))
 - 櫻木弓弦 ([@Yuzuru_Sakuragi@misskey.io](https://misskey.io/@Yuzuru_Sakuragi))

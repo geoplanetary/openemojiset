@@ -1,0 +1,2954 @@
+[
+	{
+		"name": "ablobfoxbongo",
+		"category": "Blobs/Blobfox",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobfoxbongohyper",
+		"category": "Blobs/Blobfox",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobfoxbongoterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobfoxdundundun",
+		"category": "Blobs/Blobfox",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobfoxdundundunowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobfoxhyper",
+		"category": "Blobs/Blobfox",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobfoxhypercofe",
+		"category": "Blobs/Blobfox",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobfoxhyperowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobfoxhypersnugowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobfoxhyperthinking",
+		"category": "Blobs/Blobfox",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobfoxhyperwhaaaat",
+		"category": "Blobs/Blobfox",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobfoxloading",
+		"category": "Blobs/Blobfox",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "ablobfoxree",
+		"category": "Blobs/Blobfox",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfox",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfox0_0",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfox3c",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfox3cevil",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfox_w_",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxangry",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxangrylaugh",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxannoyed",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxartist",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxastronout",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxastronoutgun",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxaww",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxblush",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxblushmore",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxbongo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxbongostart",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxbongoterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxbongoterrifiedstart",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxbonk",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxboop",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxboop_w_",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxboopblush",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxboopcute",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxboopfloof",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxboopglare",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxboopgoogly",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxboophappy",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxboopmelt",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxboopmelthappy",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxboopmlem",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxboopowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxboopterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxbox",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxbreadpeek",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxbreadsnoot",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxbreadsnoot2",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxbreadsnoot2googly",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxbreadsnootgoogly",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcactus",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcamera",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcat",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcatsnuggle",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcatterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcheck",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcheer",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcofe",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcofe_w_",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcofecute",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcofeglare",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcofemlem",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcofeowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcofeterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfy",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfycofe",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfycomputer",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfyevil",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfyglare",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfyhappy",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfymelt",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfymelthappy",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfyowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfysip",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfysleepy",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfysmirk",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfysmug",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfytea",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomfyterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomputer",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomputerowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcomputerowonotice",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxconfused",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcookie",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcookienomfox",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcry",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcry2",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcrylaugh",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcryreach",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcursedowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxcute",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdab",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdarkghost",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdarkghostfloof",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdarkghostspooky",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdead",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdeadinside",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdealwithit",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdealwithitfingerguns",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdetective",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdetermined",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdevil",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdisapprove",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdisgust",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdisputed",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdizzy",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdoubt",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdrakedislike",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdrakelike",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxdrool",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxevil",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxeyes",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxfacepalm",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxfake",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxfingerguns",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxfloof",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxfloof_w_",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxfloofcofe",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxfloofcute",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxfloofdevil",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxfloofevil",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxfloofhappy",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxfloofowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxfloofreach",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxflooftea",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxflower",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxflowerhair",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxghost",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxghostfloof",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxghostspooky",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxglare",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxgoogly",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxgooglycry",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxgooglymlem",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxgooglynomlog",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxgooglytrash",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxhappy",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxhappymlem",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxheadphones",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxheart",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxheartcute",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxhyper",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxhyper2",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxinnocent",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxinnocentcute",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxinnocentmlem",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxkirby",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxkirbyinhale",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxknife",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxlaugh",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxlaughsweat",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxlewd",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxlul",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxlurk",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxlurk2",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxlurk2glare",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxlurk2owo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxlurk2owonotice",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxlurkaww",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxlurkglare",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxlurkowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxlurkowonotice",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmegumin",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmelt",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmelt2",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmelt3",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmeltblush",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmelthappy",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmeltmlem",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmeltreach",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmeltsob",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmeltsoblove",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmischievous",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmlem",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmsnugglecentercat",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmsnugglecenterfox",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmsnuggleleftcat",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmsnuggleleftfox",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmsnugglerightcat",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmsnugglerightfox",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxmsnugglerightnone",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnauseated",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnerd",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxninja",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomball",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnombook",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnombread",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomburger",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomcake",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomcat",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomcookie",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomcorndog",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomcroutons",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomdonut",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomdonutpolice",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomdonutterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomegg",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomfox",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomfoxburger",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomfoxcookie",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomfoxterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomhotdog",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomicecream",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomlog",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnommelon",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnommobile",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnompizza",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnompizzaterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomshoe",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomstrawberry",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnomtomato",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnotamused",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxnotlikethis",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxo_o",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxonepunch",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxoutage",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxowomlem",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxowonotice",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpat",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpatdeny",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpatghost",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpatgoogly",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpatmelt",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpatmelt2",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpatmelt3",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpatneutral",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpatsad",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpeek",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpeekcomfy",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpeekknife",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpeekowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpeekpolice",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpirate",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpleading",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxpolice",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxprelurkcofe",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxprelurkcroutons",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxprelurkdonut",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxrage",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxragelarge1",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxragelarge2",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxragelarge3",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxragelarge4",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxreach",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxreachaww",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxread",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxreinderp",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxretsuko",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsad",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsanta",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxscared",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxscience",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxshocked",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxshy",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsignbaka",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsignbigfan",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsignforbidden",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsigngenau",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsignno",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsignnou",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsignnoublush",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsignsrcpls",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsignthx",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsignyes",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsignyip",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsip",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsipglare",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsipowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsipsmug",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsipterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsleep",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsleepdab",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsmirk",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsmug",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsnug",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsnugglare",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsnuggle",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsnugowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsnugterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxstabbed",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsurprised",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxsweating",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxtableflip",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxtea",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxtea_w_",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxteacute",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxteaglare",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxteamlem",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxteaowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxteaterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxthief",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxthink",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxthinkanime",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxthinkgoogly",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxthinking",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxthinkowo",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxthinksmart",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxthinksmirk",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxthisisfine",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxthonking",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxthumbsdown",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxthumbsup",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxtrash",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxtsundere",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxuno",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxunoterrified",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxupset",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxupsidedown",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxupsidedowndizzy",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxuwu",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxwashingmachine",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxwater",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxwave",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxwet",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxwhaaaat",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxwhoaa",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxwink",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxwinkmlem",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxworried",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxyandere",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxyeet",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxyoshieat",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxyoshieatpixel",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxyoshiend",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "blobfoxyoshimid",
+		"category": "Blobs/Blobfox",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]
