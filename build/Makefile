@@ -12,15 +12,16 @@ help:
 	@echo "* assets | build all assets"
 	@echo "* clean  | clean build directory"
 	@echo "Individual targets:"
-	@echo "> barcode blobs game square twemoji"
+	@echo "> barcode blobs bunhd game square twemoji"
 	@echo "* <target>.clean | clean target"
 
-assets: barcode blobs game square twemoji
+assets: barcode blobs bunhd game square twemoji
 
-assets.clean: barcode.clean blobs.clean game.clean square.clean twemoji.clean
+assets.clean: barcode.clean blobs.clean bunhd.clean game.clean square.clean twemoji.clean
 
 include barcode.mk
 include blobs.mk
+include bunhd.mk
 include game.mk
 include emojis.mk
 include square.mk

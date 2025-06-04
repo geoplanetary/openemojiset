@@ -1,0 +1,317 @@
+[
+	{
+		"name": "abunhd",
+		"category": "BunHD",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "abunhdcry",
+		"category": "BunHD",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "abunhdhappy",
+		"category": "BunHD",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "abunhdhappyhop",
+		"category": "BunHD",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "abunhdhop",
+		"category": "BunHD",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "abunhdowohop",
+		"category": "BunHD",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "abunhdsadpat",
+		"category": "BunHD",
+		"type": "image/apng",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhd",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdangry",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdaww",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdcomfy",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdcomfyhappy",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdcomfyidle",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdcomfysleep",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdcry",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdgoogly",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdgrumpy",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdhappy",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdheart",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdidle",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdknife",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdlurk",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdlurkaww",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdmlem",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdowo",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdpeek",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdprelurkcofe",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdprelurkcroutons",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdprelurkdonut",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdsad",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdsleep",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdsmug",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdthink",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhdthinking",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "bunhduwu",
+		"category": "BunHD",
+		"type": "image/png",
+		"aliases": [],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright Volpeon. see https://volpeon.ink/",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]
