@@ -16,6 +16,7 @@ emoji_assets= \
   blobs/blobemoji/*.png \
   blobs/blobemoji/*.gif \
   blobs/blobcat/*.png \
+  blobs/blobfox/*.png \
   blobs/meowmoji/*.png \
   blobs/meowmoji/*.gif \
   bunhd/*.png \
@@ -30,6 +31,7 @@ emoji_metadata_list= \
   blobs/blobbluebird/meta.json \
   blobs/blobemoji/meta.json \
   blobs/blobcat/meta.json \
+  blobs/blobfox/meta.json \
   blobs/meowmoji/meta.json \
   bunhd/meta.json \
   game/shapez/meta.json \
