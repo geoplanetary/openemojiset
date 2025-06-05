@@ -11,6 +11,7 @@ Misskey 、もしくはそのフォークサーバーで使用することを想
 このリポジトリに収録されているカスタム絵文字の製作者に感謝します。
 
 - Blob emoji(Google Inc. & Arjen Nienhuis)
+- [elke](https://elke.cafe/)
 - Meowmoji (community)
 - NewHorizons & Blob Hub™ Designer Team
 - [Volpeon](https://volpeon.ink/)
