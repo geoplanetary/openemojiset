@@ -4,3 +4,6 @@
 [submodule "submodules/cat-is-blob"]
 	path = submodules/cat-is-blob
 	url = https://gitlab.com/ijomeli/cat-is-blob
+[submodule "submodules/QueerCats"]
+	path = submodules/QueerCats
+	url = https://github.com/ZoeBijl/QueerCats
