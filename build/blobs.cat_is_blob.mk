@@ -40,7 +40,7 @@ blobs/cat_is_blob: \
   blobs/cat_is_blob/cat_is_blob_and_sad.gif \
   blobs/cat_is_blob/cat_is_blob_and_trans.gif \
   blobs/cat_is_blob/cat_is_blob.gif \
-  blobs/cat_is_blob/cat_is_blob.gif
+  blobs/cat_is_blob/cat_is_woem.gif
 
 blobs/cat_is_blob.clean:
 	-rm -rf blobs/cat_is_blob/

@@ -380,7 +380,7 @@
 		"isSensitive": false
 	},
 	{
-		"name": "cat_is_blob",
+		"name": "cat_is_woem",
 		"category": "Blobs/Cat Is Blob",
 		"type": "image/gif",
 		"aliases": [
