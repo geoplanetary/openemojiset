@@ -1,3 +1,6 @@
 [submodule "submodules/blobtoolkit"]
 	path = submodules/blobtoolkit
 	url = https://gitlab.com/iNewHorizons/blobtoolkit
+[submodule "submodules/cat-is-blob"]
+	path = submodules/cat-is-blob
+	url = https://gitlab.com/ijomeli/cat-is-blob
