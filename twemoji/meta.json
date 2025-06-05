@@ -6,7 +6,7 @@
 		"aliases": [
 			"16"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -17,7 +17,7 @@
 		"aliases": [
 			"32"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -28,7 +28,7 @@
 		"aliases": [
 			"64"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -39,7 +39,7 @@
 		"aliases": [
 			"128"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -50,7 +50,7 @@
 		"aliases": [
 			"256"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -62,7 +62,7 @@
 			"334",
 			"阪神"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -73,7 +73,7 @@
 		"aliases": [
 			"512"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -84,7 +84,7 @@
 		"aliases": [
 			"575"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -95,7 +95,7 @@
 		"aliases": [
 			"1024"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -106,7 +106,7 @@
 		"aliases": [
 			"2048"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -117,7 +117,7 @@
 		"aliases": [
 			"4096"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -128,7 +128,7 @@
 		"aliases": [
 			"8192"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -139,7 +139,7 @@
 		"aliases": [
 			"16384"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -150,7 +150,7 @@
 		"aliases": [
 			"32768"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -161,7 +161,7 @@
 		"aliases": [
 			"65536"
 		],
-		"license": "Copyright 2021, Twitter under CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode.txt)",
+		"license": "CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode), Copyright 2021 Twitter.",
 		"localOnly": false,
 		"isSensitive": false
 	}

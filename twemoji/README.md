@@ -2,7 +2,12 @@
 
 Twemoji 由来/派生の絵文字
 
-Twemoji (派生元)のライセンスは[COPYING](COPYING)に記載しています
+## Twemoji ライセンス
+
+- Code License: [MIT License](https://opensource.org/license/mit/)
+- Graphic License: [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+
+[LICENSE](LICENSE)に記載しています
 
 ## リスト
 
