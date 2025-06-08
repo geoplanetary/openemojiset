@@ -1,0 +1,572 @@
+[
+	{
+		"name": "queercat",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_ace",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_agender",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_aromantic",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_autism",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_bisexual",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_enby",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_genderfluid",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_genderqueer",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_intersex",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_lesbian",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_malehomosexual",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_pansexual",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_polyamory",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_polyamory_new",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_polysexual",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_pride",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_sapphic",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercat_trans",
+		"category": "Blobs/QueerCats/QueerCat",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_ace",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_agender",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_aromantic",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_autism",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_bisexual",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_enby",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_genderfluid",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_genderqueer",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_intersex",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_lesbian",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_malehomosexual",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_pansexual",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_polyamory",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_polysexual",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_pride",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_sapphic",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatheart_trans",
+		"category": "Blobs/QueerCats/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_ace",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_agender",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_aromantic",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_austism",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_bisexual",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_blackTransgender",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_demiboy",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_demigirl",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_enby",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_genderfluid",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_genderqueer",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_intersex",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_lesbian",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_malehomosexual",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_pansexual",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_polyamory",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_polysexual",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_pride",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_progress",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_sapphic",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "queercatmorningcoffee_transgender",
+		"category": "Blobs/QueerCats/MorningCoffee",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), and origin licensed with Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Created by Zoë Bijl & QueerCats contributors, Copyright 2013 Blob emoji(Google Inc. & Arjen Nienhuis).",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]

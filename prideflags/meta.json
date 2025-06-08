@@ -1,0 +1,582 @@
+[
+	{
+		"name": "flag_ace",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_agender",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_aromantic",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_autism",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_bisexual",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_blacktrans",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_enby",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_genderfluid",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_genderqueer",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_intersex",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_lesbian",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_malehomosexual",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_pansexual",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_polyamory",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_polysexual",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_pride",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_progress",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_sapphic",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "flag_trans",
+		"category": "PrideFlags/Flag",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_ace",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_agender",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_aromantic",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_autism",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_bisexual",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_blacktrans",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_enby",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_fuchsia",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_genderfluid",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_genderqueer",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_intersex",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_lesbian",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_malehomosexual",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_pansexual",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_polyamory",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_polysexual",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_pride",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_progress",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_sapphic",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "heart_trans",
+		"category": "PrideFlags/Heart",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_ace",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_agender",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_aromantic",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_autism",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_bisexual",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_blacktrans",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_enby",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_genderfluid",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_genderqueer",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_intersex",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_lesbian",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_malehomosexual",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_pansexual",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_polyamory",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_polysexual",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_pride",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_progress",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_sapphic",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "fire_trans",
+		"category": "PrideFlags/Fire",
+		"type": "image/png",
+		"aliases": [
+		],
+		"license": "CC0 1.0 Universal(https://creativecommons.org/publicdomain/zero/1.0/), Created by Zoë Bijl & QueerCats contributors.",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]

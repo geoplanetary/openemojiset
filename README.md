@@ -15,5 +15,6 @@ Misskey 、もしくはそのフォークサーバーで使用することを想
 - Meowmoji (community)
 - NewHorizons & Blob Hub™ Designer Team
 - [Volpeon](https://volpeon.ink/)
+- Zoë Bijl & QueerCats contributors
 - 桜川七帆 ([@nanairo3977@m.77iro.life](https://m.77iro.life/@nanairo3977))
 - 櫻木弓弦 ([@Yuzuru_Sakuragi@misskey.io](https://misskey.io/@Yuzuru_Sakuragi))

@@ -20,6 +20,7 @@ emoji_assets= \
   blobs/cat_is_blob/*.gif \
   blobs/meowmoji/*.png \
   blobs/meowmoji/*.gif \
+  blobs/queercats/*.png \
   bunhd/*.png \
   game/shapez/*.png \
   square/dialect-ja/*.png \
@@ -35,6 +36,7 @@ emoji_metadata_list= \
   blobs/blobfox/meta.json \
   blobs/cat_is_blob/meta.json \
   blobs/meowmoji/meta.json \
+  blobs/queercats/meta.json \
   bunhd/meta.json \
   game/shapez/meta.json \
   square/dialect-ja/meta.json \
