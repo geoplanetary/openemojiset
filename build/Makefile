@@ -20,7 +20,7 @@ assets: barcode blobs bunhd game handwritten prideflags square text twemoji
 
 assets.clean: barcode.clean blobs.clean bunhd.clean game.clean handwritten.clean prideflags.clean square.clean text.clean twemoji.clean
 
-check: assets
+check: emojis
 	.script/check_metadata_integrity.sh
 
 include barcode.mk
