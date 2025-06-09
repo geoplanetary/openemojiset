@@ -13,5 +13,6 @@ blobs/.blobcat.pre: .blobs.pre
 blobs/blobcat/meta.json: blobs/.blobcat.pre ../blobs/blobcat/meta.json
 	.script/build_metadata.sh ../blobs/blobcat/meta.json > blobs/blobcat/meta.json
 
-blobs/blobcat/blobcatowo.png: blobs/.blobcat.pre ../blobs/blobcat/blobcatowo.svg
-	resvg -z 4 --dpi 384 ../blobs/blobcat/blobcatowo.svg blobs/blobcat/blobcatowo.png && optipng -q blobs/blobcat/blobcatowo.png
+blobs/blobcat/%.png:: ../blobs/blobcat/%.svg blobs/.blobcat.pre
+	resvg -z 4 --dpi 384 "$<" "$@"
+	optipng -q --fix "$@"
