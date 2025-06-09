@@ -1,5 +1,15 @@
 [
 	{
+		"name": "ablobcatcyclone",
+		"category": "Blobs/Blobcat",
+		"type": "image/apng",
+		"aliases": [
+		],
+		"license": "Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html), Copyright 木野どど松(@ddquino@ddoskey.com), 2018 NewHorizons & Blob Hub™ Designer Team, 2013 Blob emoji(Google Inc. & Arjen Nienhuis). see https://ddoskey.com/@ddquino/pages/1699280244941",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "blobcatowo",
 		"category": "Blobs/Blobcat",
 		"type": "image/png",
