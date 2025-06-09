@@ -30,6 +30,7 @@ emoji_assets= \
   square/general-ja/*.gif \
   square/かわいい-ja/*.png \
   text/general-ja/*.png \
+  text/general-ja/*.gif \
   text/subtitle-ja/*.png \
   twemoji/*.png
 

@@ -12,6 +12,18 @@
 		"isSensitive": false
 	},
 	{
+		"name": "hellsing_major_krieg_speech",
+		"category": "text/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"よろしいならば戦争だ",
+			"verywellthenletitbekrieg"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": true
+	},
+	{
 		"name": "landscape_bonnnoujinohen",
 		"category": "text/general-ja",
 		"type": "image/png",
@@ -20,6 +32,39 @@
 			"bonnoujinohen02"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by まきはら(@makihara@fedibird.com). see https://fedibird.com/@makihara/111385017248877449",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_ideograph_goldenweek",
+		"category": "text/general-ja",
+		"type": "image/gif",
+		"aliases": [
+			"土土日日祝祝祝"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_kanzennnikore",
+		"category": "text/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"完全にこれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "scrolling_shigotogahayasugitemienai",
+		"category": "text/general-ja",
+		"type": "image/gif",
+		"aliases": [
+			"仕事が早すぎて見えない"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	}
