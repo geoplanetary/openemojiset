@@ -25,6 +25,9 @@ emoji_assets= \
   game/shapez/*.png \
   handwritten/ddquino/*.png \
   handwritten/ddquino/*.webp \
+  letters/general-ja/*.png \
+  letters/general-ja/*.gif \
+  letters/subtitle-ja/*.png \
   square/cthulhu-ja/*.png \
   square/dialect-ja/*.png \
   square/general-ja/*.png \
@@ -35,9 +38,6 @@ emoji_assets= \
   square/たれ-ja/*.png \
   square/はなし-ja/*.gif \
   square/祭り-ja/*.png \
-  text/general-ja/*.png \
-  text/general-ja/*.gif \
-  text/subtitle-ja/*.png \
   twemoji/*.png
 
 emoji_metadata_list= \
@@ -52,6 +52,8 @@ emoji_metadata_list= \
   bunhd/meta.json \
   game/shapez/meta.json \
   handwritten/ddquino/meta.json \
+  letters/general-ja/meta.json \
+  letters/subtitle-ja/meta.json \
   square/cthulhu-ja/meta.json \
   square/dialect-ja/meta.json \
   square/general-ja/meta.json \
@@ -61,8 +63,6 @@ emoji_metadata_list= \
   square/たれ-ja/meta.json \
   square/はなし-ja/meta.json \
   square/祭り-ja/meta.json \
-  text/general-ja/meta.json \
-  text/subtitle-ja/meta.json \
   twemoji/meta.json
 
 emojis.zip: .emojis.pre assets

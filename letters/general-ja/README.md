@@ -2,7 +2,7 @@
 
 他のカテゴリに属さない、日本語の文字列絵文字
 
-## リスト
+## Contents
 
 - `focused_landscape_konnnakotomoaroukato`\
   (一般には`konnakotomo_aroukato`として知られています)\

@@ -1,7 +1,7 @@
 [
 	{
 		"name": "focused_landscape_konnnakotomoaroukato",
-		"category": "text/general-ja",
+		"category": "Letters/general-ja",
 		"type": "image/png",
 		"aliases": [
 			"こんなこともあろうかと",
@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "hellsing_major_krieg_speech",
-		"category": "text/general-ja",
+		"category": "Letters/general-ja",
 		"type": "image/png",
 		"aliases": [
 			"よろしいならば戦争だ",
@@ -25,7 +25,7 @@
 	},
 	{
 		"name": "landscape_bonnnoujinohen",
-		"category": "text/general-ja",
+		"category": "Letters/general-ja",
 		"type": "image/png",
 		"aliases": [
 			"煩悩寺の変",
@@ -37,7 +37,7 @@
 	},
 	{
 		"name": "landscape_ideograph_goldenweek",
-		"category": "text/general-ja",
+		"category": "Letters/general-ja",
 		"type": "image/gif",
 		"aliases": [
 			"土土日日祝祝祝"
@@ -48,7 +48,7 @@
 	},
 	{
 		"name": "landscape_kanzennnikore",
-		"category": "text/general-ja",
+		"category": "Letters/general-ja",
 		"type": "image/png",
 		"aliases": [
 			"完全にこれ"
@@ -59,7 +59,7 @@
 	},
 	{
 		"name": "scrolling_shigotogahayasugitemienai",
-		"category": "text/general-ja",
+		"category": "Letters/general-ja",
 		"type": "image/gif",
 		"aliases": [
 			"仕事が早すぎて見えない"
