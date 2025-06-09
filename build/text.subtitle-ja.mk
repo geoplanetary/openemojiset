@@ -8,7 +8,7 @@ text/subtitle-ja.clean:
 	-rm -rf text/subtitle-ja/
 	-rm text/.subtitle-ja.pre
 
-text/.subtitle-ja.pre: .square.pre
+text/.subtitle-ja.pre: .text.pre
 	-mkdir -p text/subtitle-ja && \
 	touch text/.subtitle-ja.pre
 

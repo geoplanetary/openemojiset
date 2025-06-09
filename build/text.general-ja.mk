@@ -9,7 +9,7 @@ text/general-ja.clean:
 	-rm -rf text/general-ja/
 	-rm text/.general-ja.pre
 
-text/.general-ja.pre: .square.pre
+text/.general-ja.pre: .text.pre
 	-mkdir -p text/general-ja && \
 	touch text/.general-ja.pre
 
