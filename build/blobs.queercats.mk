@@ -65,7 +65,7 @@ blobs/queercats.clean:
 	-rm blobs/.queercats.pre
 
 blobs/.queercats.pre: .blobs.pre
-	-mkdir -p blobs/queercats && \
+	mkdir -p blobs/queercats
 	touch blobs/.queercats.pre
 
 blobs/queercats/meta.json: ../blobs/queercats/meta.json blobs/.queercats.pre

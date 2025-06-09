@@ -371,15 +371,14 @@ blobs/meowmoji.clean:
 	-rm blobs/.meowmoji.pre
 
 blobs/.meowmoji.pre: .blobs.pre
-	-mkdir -p blobs/meowmoji && \
+	mkdir -p blobs/meowmoji
 	touch blobs/.meowmoji.pre
 
 blobs/meowmoji/meta.json: ../blobs/meowmoji/meta.json blobs/.meowmoji.pre
 	.script/build_metadata.sh ../blobs/meowmoji/meta.json > blobs/meowmoji/meta.json
 
 blobs/meowmoji/%.png: ../blobs/meowmoji/%.png blobs/.meowmoji.pre
-	cp $< $@
-	optipng -q --fix $@
+	optipng -q --fix "$<" -out "$@"
 
 blobs/meowmoji/%.gif: ../blobs/meowmoji/%.gif blobs/.meowmoji.pre
-	cp $< $@
+	cp "$<" "$@"

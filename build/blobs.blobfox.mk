@@ -336,12 +336,11 @@ blobs/blobfox.clean:
 	-rm blobs/.blobfox.pre
 
 blobs/.blobfox.pre: .blobs.pre
-	-mkdir -p blobs/blobfox && \
+	mkdir -p blobs/blobfox
 	touch blobs/.blobfox.pre
 
 blobs/blobfox/meta.json: ../blobs/blobfox/meta.json blobs/.blobfox.pre
 	.script/build_metadata.sh ../blobs/blobfox/meta.json > blobs/blobfox/meta.json
 
 blobs/blobfox/%.png: ../blobs/blobfox/%.png blobs/.blobfox.pre
-	cp $< $@
-	optipng -q --fix $@
+	optipng -q --fix "$<" -out "$@"

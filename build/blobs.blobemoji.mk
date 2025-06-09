@@ -555,15 +555,14 @@ blobs/blobemoji.clean:
 	-rm blobs/.blobemoji.pre
 
 blobs/.blobemoji.pre: .blobs.pre
-	-mkdir -p blobs/blobemoji && \
+	mkdir -p blobs/blobemoji
 	touch blobs/.blobemoji.pre
 
 blobs/blobemoji/meta.json: ../blobs/blobemoji/meta.json blobs/.blobemoji.pre
 	.script/build_metadata.sh ../blobs/blobemoji/meta.json > blobs/blobemoji/meta.json
 
 blobs/blobemoji/%.png: ../blobs/blobemoji/%.png blobs/.blobemoji.pre
-	cp $< $@
-	optipng -q --fix $@
+	optipng -q --fix "$<" -out "$@"
 
 blobs/blobemoji/%.gif: ../blobs/blobemoji/%.gif blobs/.blobemoji.pre
 	cp $< $@

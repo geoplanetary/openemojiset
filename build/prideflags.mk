@@ -66,7 +66,7 @@ prideflags.clean:
 	-rm .prideflags.pre
 
 .prideflags.pre: .blobs.pre
-	-mkdir -p prideflags && \
+	mkdir -p prideflags
 	touch .prideflags.pre
 
 prideflags/meta.json: ../prideflags/meta.json .prideflags.pre

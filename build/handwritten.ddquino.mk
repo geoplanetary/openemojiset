@@ -27,7 +27,7 @@ handwritten/ddquino.clean:
 	-rm handwritten/.ddquino.pre
 
 handwritten/.ddquino.pre: .handwritten.pre
-	-mkdir -p handwritten/ddquino && \
+	mkdir -p handwritten/ddquino
 	touch handwritten/.ddquino.pre
 
 handwritten/ddquino/meta.json: handwritten/.ddquino.pre ../handwritten/ddquino/meta.json

@@ -7,7 +7,7 @@ game.clean: game/shapez.clean
 	-rm .game.pre
 
 .game.pre:
-	-mkdir -p game && \
+	mkdir -p game
 	touch .game.pre
 
 include game.shapez.mk

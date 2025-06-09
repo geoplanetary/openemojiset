@@ -7,7 +7,7 @@ emojis.clean:
 	-rm -rf emojis/
 
 .emojis.pre:
-	-mkdir -p emojis && \
+	mkdir -p emojis
 	touch .emojis.pre
 
 emoji_assets= \

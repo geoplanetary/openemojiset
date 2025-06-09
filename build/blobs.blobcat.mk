@@ -10,7 +10,7 @@ blobs/blobcat.clean:
 	-rm blobs/.blobcat.pre
 
 blobs/.blobcat.pre: .blobs.pre
-	-mkdir -p blobs/blobcat && \
+	mkdir -p blobs/blobcat
 	touch blobs/.blobcat.pre
 
 blobs/blobcat/meta.json: blobs/.blobcat.pre ../blobs/blobcat/meta.json

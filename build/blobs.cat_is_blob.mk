@@ -47,11 +47,11 @@ blobs/cat_is_blob.clean:
 	-rm blobs/.cat_is_blob.pre
 
 blobs/.cat_is_blob.pre: .blobs.pre
-	-mkdir -p blobs/cat_is_blob && \
+	mkdir -p blobs/cat_is_blob
 	touch blobs/.cat_is_blob.pre
 
 blobs/cat_is_blob/meta.json: ../blobs/cat_is_blob/meta.json blobs/.cat_is_blob.pre
 	.script/build_metadata.sh ../blobs/cat_is_blob/meta.json > blobs/cat_is_blob/meta.json
 
 blobs/cat_is_blob/%.gif: ../submodules/cat-is-blob/%.gif blobs/.cat_is_blob.pre
-	cp $< $@
+	cp "$<" "$@"

@@ -7,7 +7,7 @@ blobs.clean: blobs/blobbluebird.clean blobs/blobemoji.clean blobs/blobcat.clean 
 	-rm .blobs.pre
 
 .blobs.pre:
-	-mkdir -p blobs && \
+	mkdir -p blobs
 	touch .blobs.pre
 
 include blobs.blobbluebird.mk

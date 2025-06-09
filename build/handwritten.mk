@@ -7,7 +7,7 @@ handwritten.clean: handwritten/ddquino.clean
 	-rm .handwritten.pre
 
 .handwritten.pre:
-	-mkdir -p handwritten && \
+	mkdir -p handwritten
 	touch .handwritten.pre
 
 include handwritten.ddquino.mk

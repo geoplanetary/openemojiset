@@ -43,13 +43,12 @@ bunhd.clean:
 	-rm .bunhd.pre
 
 .bunhd.pre:
-	-mkdir -p bunhd && \
+	mkdir -p bunhd
 	touch .bunhd.pre
 
 bunhd/meta.json: ../bunhd/meta.json .bunhd.pre
 	.script/build_metadata.sh ../bunhd/meta.json > bunhd/meta.json
 
 bunhd/%.png: ../bunhd/%.png .bunhd.pre
-	cp $< $@
-	optipng -q --fix $@
+	optipng -q --fix "$<" -out "$@"
 
