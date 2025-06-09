@@ -23,6 +23,8 @@ emoji_assets= \
   blobs/queercats/*.png \
   bunhd/*.png \
   game/shapez/*.png \
+  handwritten/ddquino/*.png \
+  handwritten/ddquino/*.webp \
   square/dialect-ja/*.png \
   square/general-ja/*.png \
   square/general-ja/*.gif \
@@ -42,6 +44,7 @@ emoji_metadata_list= \
   blobs/queercats/meta.json \
   bunhd/meta.json \
   game/shapez/meta.json \
+  handwritten/ddquino/meta.json \
   square/dialect-ja/meta.json \
   square/general-ja/meta.json \
   square/かわいい-ja/meta.json \
