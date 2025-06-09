@@ -25,6 +25,7 @@ emoji_assets= \
   game/shapez/*.png \
   square/dialect-ja/*.png \
   square/general-ja/*.png \
+  square/general-ja/*.gif \
   square/かわいい-ja/*.png \
   text/general-ja/*.png \
   text/subtitle-ja/*.png \
