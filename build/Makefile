@@ -1,4 +1,4 @@
-.PHONY: all clean help assets.clean
+.PHONY: all clean check help assets.clean
 
 all: emojis assets
 
@@ -10,6 +10,7 @@ help:
 	@echo "Meta targets:"
 	@echo "* all    | build all targets"
 	@echo "* assets | build all assets"
+	@echo "* check  | check metadata integrity"
 	@echo "* clean  | clean build directory"
 	@echo "Individual targets:"
 	@echo "> barcode blobs bunhd game handwritten prideflags square text twemoji"
@@ -18,6 +19,9 @@ help:
 assets: barcode blobs bunhd game handwritten prideflags square text twemoji
 
 assets.clean: barcode.clean blobs.clean bunhd.clean game.clean handwritten.clean prideflags.clean square.clean text.clean twemoji.clean
+
+check: assets
+	.script/check_metadata_integrity.sh
 
 include barcode.mk
 include blobs.mk
