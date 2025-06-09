@@ -1,0 +1,101 @@
+[
+	{
+		"name": "square_amadare",
+		"category": "squared/たれ-ja",
+		"type": "image/png",
+		"aliases": [
+			"あまだれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_ittare",
+		"category": "squared/たれ-ja",
+		"type": "image/png",
+		"aliases": [
+			"いったれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_kuttare",
+		"category": "squared/たれ-ja",
+		"type": "image/png",
+		"aliases": [
+			"くったれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_madare",
+		"category": "squared/たれ-ja",
+		"type": "image/png",
+		"aliases": [
+			"まだれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_nondare",
+		"category": "squared/たれ-ja",
+		"type": "image/png",
+		"aliases": [
+			"のんだれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_sudare",
+		"category": "squared/たれ-ja",
+		"type": "image/png",
+		"aliases": [
+			"すだれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_yakinikunotare",
+		"category": "squared/たれ-ja",
+		"type": "image/png",
+		"aliases": [
+			"焼肉のたれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_yamaidare",
+		"category": "squared/たれ-ja",
+		"type": "image/png",
+		"aliases": [
+			"やまいだれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_yattare",
+		"category": "squared/たれ-ja",
+		"type": "image/png",
+		"aliases": [
+			"やったれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]

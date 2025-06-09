@@ -1,0 +1,69 @@
+[
+	{
+		"name": "square_ohayou",
+		"category": "squared/greetings-ja",
+		"type": "image/png",
+		"aliases": [
+			"おはよう"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_okaeri",
+		"category": "squared/greetings-ja",
+		"type": "image/png",
+		"aliases": [
+			"おかえり"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_osashimiyasai",
+		"category": "squared/greetings-ja",
+		"type": "image/png",
+		"aliases": [
+			"おさしみやさい",
+			"おやすみなさい"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_otsukaresama",
+		"category": "squared/greetings-ja",
+		"type": "image/png",
+		"aliases": [
+			"お疲れ様"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_oyasumi",
+		"category": "squared/greetings-ja",
+		"type": "image/png",
+		"aliases": [
+			"おやすみ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_tadaima",
+		"category": "squared/greetings-ja",
+		"type": "image/png",
+		"aliases": [
+			"ただいま"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]

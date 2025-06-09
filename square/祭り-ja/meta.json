@@ -1,0 +1,79 @@
+[
+	{
+		"name": "square_arigatofes",
+		"category": "squared/祭り-ja",
+		"type": "image/png",
+		"aliases": [
+			"ありがと祭り"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_bikkurifes",
+		"category": "squared/祭り-ja",
+		"type": "image/png",
+		"aliases": [
+			"びっくり祭り"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_dosukebefes",
+		"category": "squared/祭り-ja",
+		"type": "image/png",
+		"aliases": [
+			"どすけべ祭り"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_kawaiifes",
+		"category": "squared/祭り-ja",
+		"type": "image/png",
+		"aliases": [
+			"かわいい祭り"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_naruhodofes",
+		"category": "squared/祭り-ja",
+		"type": "image/png",
+		"aliases": [
+			"なるほど祭り"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_tasukarufes",
+		"category": "squared/祭り-ja",
+		"type": "image/png",
+		"aliases": [
+			"たすかる祭り"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_tasuketefes",
+		"category": "squared/祭り-ja",
+		"type": "image/png",
+		"aliases": [
+			"たすけて祭り"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]

@@ -1,5 +1,16 @@
 [
 	{
+		"name": "black_squared_inbouron",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"陰謀論"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "neon_heart_enclosed_suki",
 		"category": "squared/general-ja",
 		"type": "image/gif",
@@ -20,6 +31,17 @@
 			"azimisitai"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "scrolling_square_shigotogahayai",
+		"category": "squared/general-ja",
+		"type": "image/gif",
+		"aliases": [
+			"仕事が早い"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -60,6 +82,50 @@
 		"isSensitive": false
 	},
 	{
+		"name": "square_arienai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ありえない"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_arieru",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ありえる"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_aruaru",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"あるある"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_baainiyoru",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"場合による"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "square_bonnnoujidaienjou",
 		"category": "squared/general-ja",
 		"type": "image/png",
@@ -80,6 +146,61 @@
 			"bonnoujinohen01"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by まきはら(@makihara@fedibird.com). see https://fedibird.com/@makihara/111385017248877449",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_bouron",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"暴論"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_brurettookudake",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ブルーレットおくだけ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_chigaukamo",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ちがうかも"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_chottodeiikara",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ちょっとでいいから"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_daijyoubudamondainai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"大丈夫だ問題ない"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -109,6 +230,50 @@
 		"isSensitive": false
 	},
 	{
+		"name": "square_doshigatai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"度し難い"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_ecchii",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"えっちい"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_emojioosugimondai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"絵文字多すぎ問題"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_eroeronoero",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"えろえろのえろ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "square_fuwamoko",
 		"category": "squared/general-ja",
 		"type": "image/png",
@@ -117,6 +282,17 @@
 			"fuwa_moko"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_gomottomo",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ごもっとも"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -145,6 +321,50 @@
 		"isSensitive": false
 	},
 	{
+		"name": "square_hayasugitemienai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"速すぎて見えない"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_honmaya",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ほんまや"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_honshitujyouhou",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"本質情報"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_honsore",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ほんそれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "square_hotondomahou",
 		"category": "squared/general-ja",
 		"type": "image/png",
@@ -154,6 +374,18 @@
 			"hotondo_mahou"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_ideograph_confused_meigen",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"迷言",
+			"名言"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -172,6 +404,163 @@
 		"isSensitive": false
 	},
 	{
+		"name": "square_ideograph_strange_igyou",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"異形",
+			"偉業"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_iikanji",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"いいかんじ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_iikoto",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"いいこと"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_iisensuda",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"いいセンスだ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_iizomottoyare",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"いいぞもっとやれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_ikirosonatahautsukushii",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"生きろそなたは美しい"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_internetroujinkai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"インターネット老人会"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_ippannnogokatei_outofgeneral",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"逸般の誤家庭",
+			"一般のご家庭"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_ippannnogokatei",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"一般のご家庭"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_ippantekinihasouiwareteimasu_outofgeneral",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"逸般的にはそう言われています",
+			"一般的にはそう言われています"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_ippantekinihasouiwareteimasu",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"一般的にはそう言われています"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_jigokuman",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"地獄マン"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_jissaimondai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"実際問題"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_kakoku",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"過酷"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "square_kawaisugitemahou",
 		"category": "squared/general-ja",
 		"type": "image/png",
@@ -182,6 +571,95 @@
 			"kawaisugite_mahou"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_kingen",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"金言"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_kitai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"期待"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_kitaku",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"帰宅"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_konnnatokidouiukaosurebaiikawakaranaino",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"こんな時どういう顔すればいいかわからないの"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_koredeiinoka",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"これでいいのか"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_korehayokunai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"これはよくない"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_kougokitai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"乞うご期待"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_kyounochiken",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"今日の知見",
+			"kyounotiken"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -199,6 +677,28 @@
 		"isSensitive": false
 	},
 	{
+		"name": "square_makotoniossharutooridesuwa",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"誠におっしゃる通りですわ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_mareniyokuaru",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"まれによくある"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "square_meigen",
 		"category": "squared/general-ja",
 		"type": "image/png",
@@ -208,6 +708,72 @@
 			"meigen"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_mochomocho",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"もちょもちょ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_moshikashite",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"もしかして"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_murikamo",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"無理かも"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_nahone",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"なーほーね"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_nainai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ないない"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_naruhodowakaran",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"なるほどわからん"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -236,6 +802,61 @@
 		"isSensitive": false
 	},
 	{
+		"name": "square_nero",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"寝ろ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_nerunerunerune",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ねるねるねるね"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_neyoune",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ねようね"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_odaijini",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"おだいじに"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_oishisou",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"おいしそう"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "square_oishisugitemahou",
 		"category": "squared/general-ja",
 		"type": "image/png",
@@ -246,6 +867,51 @@
 			"oishisugite_mahou"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_okashi",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"おかし"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_oshii",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"おしい！"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_panjan",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"パンじゃん"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_roudouwokaishi",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"労働を開始",
+			"出勤"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -262,6 +928,160 @@
 		"isSensitive": false
 	},
 	{
+		"name": "square_seihekinisasaru",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"性癖に刺さる"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_shigomodo",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"しごもど"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_shinanaiteidoni",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"死なない程度に"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_shukkin",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"出勤"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_sokoniattemonaidesune",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"そこに有っても無いですね"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_sokoninakerebanaidesune",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"そこに無ければ無いですね"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_sonnnakotonai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"そんなことない"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_sonosetsuhaaru",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"その説はある"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_soredakeha",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"それだけは！"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_soremomatajinsei",
+		"category": "squared/general-ja",
+		"type": "image/gif",
+		"aliases": [
+			"それもまた人生"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_sorosoro",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"そろそろ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_soukamo",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"そうかも"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_sounano",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"そうなの？"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_sounanoka",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"そうなのか？"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "square_soushisousai",
 		"category": "squared/general-ja",
 		"type": "image/png",
@@ -270,6 +1090,83 @@
 			"sousisouai"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_sugoi",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"すごい！"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_sukikamo",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"すきかも"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_tanoshimi",
+		"category": "squared/general-ja",
+		"type": "image/gif",
+		"aliases": [
+			"たのしみ！"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_tawagoto",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"戯言"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_tsuyotsuyo",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"つよつよ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_wakaranai",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"わからない"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_wakaru",
+		"category": "squared/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"わかる"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
