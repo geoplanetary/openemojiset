@@ -4,9 +4,16 @@ square/general-ja: \
   square/general-ja/meta.json \
   square/general-ja/neon_heart_enclosed_suki.gif \
   square/general-ja/orange_squared_ajimishitai.png \
+  square/general-ja/square_abarenboushougun.png \
+  square/general-ja/square_abarenboutengu.png \
+  square/general-ja/square_amaenboushougun.png \
+  square/general-ja/square_bonnnoujidaienjou.png \
+  square/general-ja/square_bonnnoujinohen.png \
   square/general-ja/square_daitaiatteru.png \
   square/general-ja/square_dokushinkizoku.gif \
   square/general-ja/square_fuwamoko.png \
+  square/general-ja/square_hanadumariegutarou.png \
+  square/general-ja/square_harakudariegutarou.png \
   square/general-ja/square_hotondomahou.png \
   square/general-ja/square_ideograph_continuousworker_renkinjutsushi.png \
   square/general-ja/square_kawaisugitemahou.png \
@@ -44,12 +51,40 @@ square/general-ja/square_daitaiatteru.png: square/.general-ja.pre ../square/gene
 	cp ../square/general-ja/square_daitaiatteru.png square/general-ja/square_daitaiatteru.png
 	optipng -q --fix square/general-ja/square_daitaiatteru.png
 
+square/general-ja/square_abarenboushougun.png: square/.general-ja.pre ../square/general-ja/square_abarenboushougun.png
+	cp ../square/general-ja/square_abarenboushougun.png square/general-ja/square_abarenboushougun.png
+	optipng -q --fix square/general-ja/square_abarenboushougun.png
+
+square/general-ja/square_abarenboutengu.png: square/.general-ja.pre ../square/general-ja/square_abarenboutengu.png
+	cp ../square/general-ja/square_abarenboutengu.png square/general-ja/square_abarenboutengu.png
+	optipng -q --fix square/general-ja/square_abarenboutengu.png
+
+square/general-ja/square_amaenboushougun.png: square/.general-ja.pre ../square/general-ja/square_amaenboushougun.png
+	cp ../square/general-ja/square_amaenboushougun.png square/general-ja/square_amaenboushougun.png
+	optipng -q --fix square/general-ja/square_amaenboushougun.png
+
+square/general-ja/square_bonnnoujidaienjou.png: square/.general-ja.pre ../square/general-ja/square_bonnnoujidaienjou.png
+	cp ../square/general-ja/square_bonnnoujidaienjou.png square/general-ja/square_bonnnoujidaienjou.png
+	optipng -q --fix square/general-ja/square_bonnnoujidaienjou.png
+
+square/general-ja/square_bonnnoujinohen.png: square/.general-ja.pre ../square/general-ja/square_bonnnoujinohen.png
+	cp ../square/general-ja/square_bonnnoujinohen.png square/general-ja/square_bonnnoujinohen.png
+	optipng -q --fix square/general-ja/square_bonnnoujinohen.png
+
 square/general-ja/square_dokushinkizoku.gif: square/.general-ja.pre ../square/general-ja/square_dokushinkizoku.gif
 	cp ../square/general-ja/square_dokushinkizoku.gif square/general-ja/square_dokushinkizoku.gif
 
 square/general-ja/square_fuwamoko.png: square/.general-ja.pre ../square/general-ja/square_fuwamoko.png
 	cp ../square/general-ja/square_fuwamoko.png square/general-ja/square_fuwamoko.png
 	optipng -q --fix square/general-ja/square_fuwamoko.png
+
+square/general-ja/square_hanadumariegutarou.png: square/.general-ja.pre ../square/general-ja/square_hanadumariegutarou.png
+	cp ../square/general-ja/square_hanadumariegutarou.png square/general-ja/square_hanadumariegutarou.png
+	optipng -q --fix square/general-ja/square_hanadumariegutarou.png
+
+square/general-ja/square_harakudariegutarou.png: square/.general-ja.pre ../square/general-ja/square_harakudariegutarou.png
+	cp ../square/general-ja/square_harakudariegutarou.png square/general-ja/square_harakudariegutarou.png
+	optipng -q --fix square/general-ja/square_harakudariegutarou.png
 
 square/general-ja/square_hotondomahou.png: square/.general-ja.pre ../square/general-ja/square_hotondomahou.png
 	cp ../square/general-ja/square_hotondomahou.png square/general-ja/square_hotondomahou.png

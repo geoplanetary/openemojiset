@@ -1,0 +1,26 @@
+[
+	{
+		"name": "focused_landscape_konnnakotomoaroukato",
+		"category": "text/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"こんなこともあろうかと",
+			"konnakotomo_aroukato"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by まきはら(@makihara@fedibird.com). see https://fedibird.com/@makihara/112510814724559290",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_bonnnoujinohen",
+		"category": "text/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"煩悩寺の変",
+			"bonnoujinohen02"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by まきはら(@makihara@fedibird.com). see https://fedibird.com/@makihara/111385017248877449",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]

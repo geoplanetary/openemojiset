@@ -1,0 +1,14 @@
+[
+	{
+		"name": "topgear_caraccident_subtitle",
+		"category": "text/subtitle-ja",
+		"type": "image/png",
+		"aliases": [
+			"誰かのせいにしたいが自分の顔しか思い浮かばない",
+			"darekanosei_jibunnokao"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by まきはら(@makihara@fedibird.com). see https://fedibird.com/@makihara/110575141483253901",
+		"localOnly": false,
+		"isSensitive": false
+	}
+]

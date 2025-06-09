@@ -26,6 +26,8 @@ emoji_assets= \
   square/dialect-ja/*.png \
   square/general-ja/*.png \
   square/かわいい-ja/*.png \
+  text/general-ja/*.png \
+  text/subtitle-ja/*.png \
   twemoji/*.png
 
 emoji_metadata_list= \
@@ -42,6 +44,8 @@ emoji_metadata_list= \
   square/dialect-ja/meta.json \
   square/general-ja/meta.json \
   square/かわいい-ja/meta.json \
+  text/general-ja/meta.json \
+  text/subtitle-ja/meta.json \
   twemoji/meta.json
 
 emojis.zip: .emojis.pre assets

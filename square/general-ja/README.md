@@ -16,6 +16,36 @@
   license: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)\
   source: https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0
 
+- `square_abarenboushougun`\
+  (一般には`abarenbou_shougun`として知られています)\
+  author: まきはら ([@makihara@fedibird.com](https://fedibird.com/@makihara))\
+  license: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)\
+  source: https://fedibird.com/@makihara/111509838101810214
+
+- `square_abarenboutengu`\
+  (一般には`abarenbou_tengu`として知られています)\
+  author: まきはら ([@makihara@fedibird.com](https://fedibird.com/@makihara))\
+  license: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)\
+  source: https://fedibird.com/@makihara/111509838101810214
+
+- `square_amaenboushougun`\
+  (一般には`amaenbou_shougun`として知られています)\
+  author: まきはら ([@makihara@fedibird.com](https://fedibird.com/@makihara))\
+  license: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)\
+  source: https://fedibird.com/@makihara/111509838101810214
+
+- `square_bonnnoujidaienjou`\
+  (一般には`bonnouji_daienjou`として知られています)\
+  author: まきはら ([@makihara@fedibird.com](https://fedibird.com/@makihara))\
+  license: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)\
+  source: https://fedibird.com/@makihara/111385519987715964
+
+- `square_bonnnoujinohen`\
+  (一般には`bonnoujinohen01`として知られています)\
+  author: まきはら ([@makihara@fedibird.com](https://fedibird.com/@makihara))\
+  license: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)\
+  source: https://fedibird.com/@makihara/111385017248877449
+
 - `square_daitaiatteru`\
   (一般には`daitai_atteru`として知られています)\
   author: 桜川七帆([@nanairo3977@m.77iro.life](https://m.77iro.life/@nanairo3977))\
@@ -33,6 +63,18 @@
   author: 桜川七帆([@nanairo3977@m.77iro.life](https://m.77iro.life/@nanairo3977))\
   license: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)\
   source: https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0
+
+- `square_hanadumariegutarou`\
+  (一般には`hanazumari_egutarou`として知られています)\
+  author: まきはら ([@makihara@fedibird.com](https://fedibird.com/@makihara))\
+  license: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)\
+  source: https://fedibird.com/@makihara/110976822541649780
+
+- `square_harakudariegutarou`\
+  (一般には`harakudari_egutarou`として知られています)\
+  author: まきはら ([@makihara@fedibird.com](https://fedibird.com/@makihara))\
+  license: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)\
+  source: https://fedibird.com/@makihara/110976822541649780
 
 - `square_hotondomahou`\
   (一般には`hotondo_mahou`として知られています)\
