@@ -1,66 +1,90 @@
 [
 	{
-		"name": "square_ohayou",
-		"category": "squared/greetings-ja",
+		"name": "square_ashi",
+		"category": "Letters/oldbook-ja",
 		"type": "image/png",
 		"aliases": [
-			"おはよう"
+			"あし"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_okaeri",
-		"category": "squared/greetings-ja",
+		"name": "square_haruhaagemono",
+		"category": "Letters/oldbook-ja",
 		"type": "image/png",
 		"aliases": [
-			"おかえり"
+			"はるはあげもの",
+			"はるはあけぼの"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_osashimiyasai",
-		"category": "squared/greetings-ja",
+		"name": "square_haruhaagepoyo",
+		"category": "Letters/oldbook-ja",
 		"type": "image/png",
 		"aliases": [
-			"おさしみやさい",
-			"おやすみなさい"
+			"はるはあげぽよ",
+			"はるはあけぼの"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_otsukaresama",
-		"category": "squared/greetings-ja",
+		"name": "square_haruhaakebono",
+		"category": "Letters/oldbook-ja",
 		"type": "image/png",
 		"aliases": [
-			"お疲れ様"
+			"はるはあけぼの",
+			"春はあけぼの"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_oyasumi",
-		"category": "squared/greetings-ja",
+		"name": "square_ito",
+		"category": "Letters/oldbook-ja",
 		"type": "image/png",
 		"aliases": [
-			"おやすみ"
+			"いと"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_tadaima",
-		"category": "squared/greetings-ja",
+		"name": "square_waroshi",
+		"category": "Letters/oldbook-ja",
 		"type": "image/png",
 		"aliases": [
-			"ただいま"
+			"わろし"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_wokashi",
+		"category": "Letters/oldbook-ja",
+		"type": "image/png",
+		"aliases": [
+			"をかし"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_yoshi",
+		"category": "Letters/oldbook-ja",
+		"type": "image/png",
+		"aliases": [
+			"よし"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,

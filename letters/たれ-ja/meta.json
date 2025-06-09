@@ -1,76 +1,98 @@
 [
 	{
-		"name": "square_arigatofes",
-		"category": "squared/祭り-ja",
+		"name": "square_amadare",
+		"category": "Letters/たれ-ja",
 		"type": "image/png",
 		"aliases": [
-			"ありがと祭り"
+			"あまだれ"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_bikkurifes",
-		"category": "squared/祭り-ja",
+		"name": "square_ittare",
+		"category": "Letters/たれ-ja",
 		"type": "image/png",
 		"aliases": [
-			"びっくり祭り"
+			"いったれ"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_dosukebefes",
-		"category": "squared/祭り-ja",
+		"name": "square_kuttare",
+		"category": "Letters/たれ-ja",
 		"type": "image/png",
 		"aliases": [
-			"どすけべ祭り"
+			"くったれ"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_kawaiifes",
-		"category": "squared/祭り-ja",
+		"name": "square_madare",
+		"category": "Letters/たれ-ja",
 		"type": "image/png",
 		"aliases": [
-			"かわいい祭り"
+			"まだれ"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_naruhodofes",
-		"category": "squared/祭り-ja",
+		"name": "square_nondare",
+		"category": "Letters/たれ-ja",
 		"type": "image/png",
 		"aliases": [
-			"なるほど祭り"
+			"のんだれ"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_tasukarufes",
-		"category": "squared/祭り-ja",
+		"name": "square_sudare",
+		"category": "Letters/たれ-ja",
 		"type": "image/png",
 		"aliases": [
-			"たすかる祭り"
+			"すだれ"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_tasuketefes",
-		"category": "squared/祭り-ja",
+		"name": "square_yakinikunotare",
+		"category": "Letters/たれ-ja",
 		"type": "image/png",
 		"aliases": [
-			"たすけて祭り"
+			"焼肉のたれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_yamaidare",
+		"category": "Letters/たれ-ja",
+		"type": "image/png",
+		"aliases": [
+			"やまいだれ"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "square_yattare",
+		"category": "Letters/たれ-ja",
+		"type": "image/png",
+		"aliases": [
+			"やったれ"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,

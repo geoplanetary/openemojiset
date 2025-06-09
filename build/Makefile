@@ -13,12 +13,12 @@ help:
 	@echo "* check  | check metadata integrity"
 	@echo "* clean  | clean build directory"
 	@echo "Individual targets:"
-	@echo "> barcode blobs bunhd game handwritten letters prideflags square twemoji"
+	@echo "> barcode blobs bunhd game handwritten letters prideflags twemoji"
 	@echo "* <target>.clean | clean target"
 
-assets: barcode blobs bunhd game handwritten letters prideflags square twemoji
+assets: barcode blobs bunhd game handwritten letters prideflags twemoji
 
-assets.clean: barcode.clean blobs.clean bunhd.clean game.clean handwritten.clean letters.clean prideflags.clean square.clean twemoji.clean
+assets.clean: barcode.clean blobs.clean bunhd.clean game.clean handwritten.clean letters.clean prideflags.clean twemoji.clean
 
 check: emojis
 	.script/check_metadata_integrity.sh
@@ -31,5 +31,4 @@ include handwritten.mk
 include letters.mk
 include emojis.mk
 include prideflags.mk
-include square.mk
 include twemoji.mk

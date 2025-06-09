@@ -1,7 +1,7 @@
 [
 	{
 		"name": "exploding_square_imanohanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"いまのはなし"
@@ -12,7 +12,7 @@
 	},
 	{
 		"name": "flashing_square_daijinahanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"だいじなはなし"
@@ -23,7 +23,7 @@
 	},
 	{
 		"name": "flashing_square_iihanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"いいはなし"
@@ -34,7 +34,7 @@
 	},
 	{
 		"name": "flashing_square_mondaihanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"問題はなし"
@@ -45,7 +45,7 @@
 	},
 	{
 		"name": "flashing_square_oishiihanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"おいしいはなし"
@@ -56,7 +56,7 @@
 	},
 	{
 		"name": "flashing_square_sosuunahanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"素数なはなし"
@@ -67,7 +67,7 @@
 	},
 	{
 		"name": "flashing_square_sutekinahanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"素敵なはなし"
@@ -78,7 +78,7 @@
 	},
 	{
 		"name": "focused_trembling_square_sugoihanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"すごいはなし"
@@ -89,7 +89,7 @@
 	},
 	{
 		"name": "square_akuihanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"悪意はなし"
@@ -100,7 +100,7 @@
 	},
 	{
 		"name": "square_kanashiihanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"かなしいはなし"
@@ -111,7 +111,7 @@
 	},
 	{
 		"name": "square_kowaihanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"こわいはなし"
@@ -122,7 +122,7 @@
 	},
 	{
 		"name": "square_sakkinohanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"さっきのはなし"
@@ -133,7 +133,7 @@
 	},
 	{
 		"name": "square_waruihanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"わるいはなし"
@@ -144,7 +144,7 @@
 	},
 	{
 		"name": "swelling_square_ureshiihanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"うれしいはなし"
@@ -155,7 +155,7 @@
 	},
 	{
 		"name": "trembling_square_hidoihanashi",
-		"category": "squared/はなし-ja",
+		"category": "Letters/はなし-ja",
 		"type": "image/gif",
 		"aliases": [
 			"ひどいはなし"

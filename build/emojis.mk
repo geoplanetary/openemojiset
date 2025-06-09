@@ -25,19 +25,19 @@ emoji_assets= \
   game/shapez/*.png \
   handwritten/ddquino/*.png \
   handwritten/ddquino/*.webp \
+  letters/cthulhu-ja/*.png \
+  letters/dialect-ja/*.png \
   letters/general-ja/*.png \
   letters/general-ja/*.gif \
+  letters/greetings-ja/*.png \
+  letters/oldbook-ja/*.png \
+  letters/square-ja/*.png \
+  letters/square-ja/*.gif \
   letters/subtitle-ja/*.png \
-  square/cthulhu-ja/*.png \
-  square/dialect-ja/*.png \
-  square/general-ja/*.png \
-  square/general-ja/*.gif \
-  square/greetings-ja/*.png \
-  square/oldbook-ja/*.png \
-  square/かわいい-ja/*.png \
-  square/たれ-ja/*.png \
-  square/はなし-ja/*.gif \
-  square/祭り-ja/*.png \
+  letters/かわいい-ja/*.png \
+  letters/たれ-ja/*.png \
+  letters/はなし-ja/*.gif \
+  letters/祭り-ja/*.png \
   twemoji/*.png
 
 emoji_metadata_list= \
@@ -52,17 +52,17 @@ emoji_metadata_list= \
   bunhd/meta.json \
   game/shapez/meta.json \
   handwritten/ddquino/meta.json \
+  letters/cthulhu-ja/meta.json \
+  letters/dialect-ja/meta.json \
   letters/general-ja/meta.json \
+  letters/greetings-ja/meta.json \
+  letters/oldbook-ja/meta.json \
+  letters/square-ja/meta.json \
   letters/subtitle-ja/meta.json \
-  square/cthulhu-ja/meta.json \
-  square/dialect-ja/meta.json \
-  square/general-ja/meta.json \
-  square/greetings-ja/meta.json \
-  square/oldbook-ja/meta.json \
-  square/かわいい-ja/meta.json \
-  square/たれ-ja/meta.json \
-  square/はなし-ja/meta.json \
-  square/祭り-ja/meta.json \
+  letters/かわいい-ja/meta.json \
+  letters/たれ-ja/meta.json \
+  letters/はなし-ja/meta.json \
+  letters/祭り-ja/meta.json \
   twemoji/meta.json
 
 emojis.zip: .emojis.pre assets

@@ -1,7 +1,7 @@
 [
 	{
 		"name": "black_squared_inbouron",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"陰謀論"
@@ -12,7 +12,7 @@
 	},
 	{
 		"name": "neon_heart_enclosed_suki",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/gif",
 		"aliases": [
 			"すき",
@@ -24,7 +24,7 @@
 	},
 	{
 		"name": "orange_squared_ajimishitai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"あじみしたい",
@@ -36,7 +36,7 @@
 	},
 	{
 		"name": "scrolling_square_shigotogahayai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/gif",
 		"aliases": [
 			"仕事が早い"
@@ -47,7 +47,7 @@
 	},
 	{
 		"name": "square_abarenboushougun",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"暴れん坊将軍",
@@ -59,7 +59,7 @@
 	},
 	{
 		"name": "square_abarenboutengu",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"暴れん坊天狗",
@@ -71,7 +71,7 @@
 	},
 	{
 		"name": "square_amaenboushougun",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"甘えん坊将軍",
@@ -83,7 +83,7 @@
 	},
 	{
 		"name": "square_arienai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ありえない"
@@ -94,7 +94,7 @@
 	},
 	{
 		"name": "square_arieru",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ありえる"
@@ -105,7 +105,7 @@
 	},
 	{
 		"name": "square_aruaru",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"あるある"
@@ -116,7 +116,7 @@
 	},
 	{
 		"name": "square_baainiyoru",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"場合による"
@@ -127,7 +127,7 @@
 	},
 	{
 		"name": "square_bonnnoujidaienjou",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"煩悩寺大炎上",
@@ -139,7 +139,7 @@
 	},
 	{
 		"name": "square_bonnnoujinohen",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"煩悩寺の変",
@@ -151,7 +151,7 @@
 	},
 	{
 		"name": "square_bouron",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"暴論"
@@ -162,7 +162,7 @@
 	},
 	{
 		"name": "square_brurettookudake",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ブルーレットおくだけ"
@@ -173,7 +173,7 @@
 	},
 	{
 		"name": "square_chigaukamo",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ちがうかも"
@@ -184,7 +184,7 @@
 	},
 	{
 		"name": "square_chottodeiikara",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ちょっとでいいから"
@@ -195,7 +195,7 @@
 	},
 	{
 		"name": "square_daijyoubudamondainai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"大丈夫だ問題ない"
@@ -206,7 +206,7 @@
 	},
 	{
 		"name": "square_daitaiatteru",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"だいたいあってる",
@@ -218,7 +218,7 @@
 	},
 	{
 		"name": "square_dokushinkizoku",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/gif",
 		"aliases": [
 			"独身貴族",
@@ -231,7 +231,7 @@
 	},
 	{
 		"name": "square_doshigatai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"度し難い"
@@ -242,7 +242,7 @@
 	},
 	{
 		"name": "square_ecchii",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"えっちい"
@@ -253,7 +253,7 @@
 	},
 	{
 		"name": "square_emojioosugimondai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"絵文字多すぎ問題"
@@ -264,7 +264,7 @@
 	},
 	{
 		"name": "square_eroeronoero",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"えろえろのえろ"
@@ -275,7 +275,7 @@
 	},
 	{
 		"name": "square_fuwamoko",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ふわもこ",
@@ -287,7 +287,7 @@
 	},
 	{
 		"name": "square_gomottomo",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ごもっとも"
@@ -298,7 +298,7 @@
 	},
 	{
 		"name": "square_hanadumariegutarou",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"はなづまりエグ太郎",
@@ -310,7 +310,7 @@
 	},
 	{
 		"name": "square_harakudariegutarou",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"はらくだりエグ太郎",
@@ -322,7 +322,7 @@
 	},
 	{
 		"name": "square_hayasugitemienai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"速すぎて見えない"
@@ -333,7 +333,7 @@
 	},
 	{
 		"name": "square_honmaya",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ほんまや"
@@ -344,7 +344,7 @@
 	},
 	{
 		"name": "square_honshitujyouhou",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"本質情報"
@@ -355,7 +355,7 @@
 	},
 	{
 		"name": "square_honsore",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ほんそれ"
@@ -366,7 +366,7 @@
 	},
 	{
 		"name": "square_hotondomahou",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ほとんど魔法",
@@ -379,7 +379,7 @@
 	},
 	{
 		"name": "square_ideograph_confused_meigen",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"迷言",
@@ -391,7 +391,7 @@
 	},
 	{
 		"name": "square_ideograph_continuousworker_renkinjutsushi",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"連勤術師",
@@ -405,7 +405,7 @@
 	},
 	{
 		"name": "square_ideograph_strange_igyou",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"異形",
@@ -417,7 +417,7 @@
 	},
 	{
 		"name": "square_iikanji",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"いいかんじ"
@@ -428,7 +428,7 @@
 	},
 	{
 		"name": "square_iikoto",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"いいこと"
@@ -439,7 +439,7 @@
 	},
 	{
 		"name": "square_iisensuda",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"いいセンスだ"
@@ -450,7 +450,7 @@
 	},
 	{
 		"name": "square_iizomottoyare",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"いいぞもっとやれ"
@@ -461,7 +461,7 @@
 	},
 	{
 		"name": "square_ikirosonatahautsukushii",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"生きろそなたは美しい"
@@ -472,7 +472,7 @@
 	},
 	{
 		"name": "square_internetroujinkai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"インターネット老人会"
@@ -483,7 +483,7 @@
 	},
 	{
 		"name": "square_ippannnogokatei_outofgeneral",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"逸般の誤家庭",
@@ -495,7 +495,7 @@
 	},
 	{
 		"name": "square_ippannnogokatei",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"一般のご家庭"
@@ -506,7 +506,7 @@
 	},
 	{
 		"name": "square_ippantekinihasouiwareteimasu_outofgeneral",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"逸般的にはそう言われています",
@@ -518,7 +518,7 @@
 	},
 	{
 		"name": "square_ippantekinihasouiwareteimasu",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"一般的にはそう言われています"
@@ -529,7 +529,7 @@
 	},
 	{
 		"name": "square_jigokuman",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"地獄マン"
@@ -540,7 +540,7 @@
 	},
 	{
 		"name": "square_jissaimondai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"実際問題"
@@ -551,7 +551,7 @@
 	},
 	{
 		"name": "square_kakoku",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"過酷"
@@ -562,7 +562,7 @@
 	},
 	{
 		"name": "square_kawaisugitemahou",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"かわいすぎて魔法",
@@ -576,7 +576,7 @@
 	},
 	{
 		"name": "square_kingen",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"金言"
@@ -587,7 +587,7 @@
 	},
 	{
 		"name": "square_kitai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"期待"
@@ -598,7 +598,7 @@
 	},
 	{
 		"name": "square_kitaku",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"帰宅"
@@ -609,7 +609,7 @@
 	},
 	{
 		"name": "square_konnnatokidouiukaosurebaiikawakaranaino",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"こんな時どういう顔すればいいかわからないの"
@@ -620,7 +620,7 @@
 	},
 	{
 		"name": "square_koredeiinoka",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"これでいいのか"
@@ -631,7 +631,7 @@
 	},
 	{
 		"name": "square_korehayokunai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"これはよくない"
@@ -642,7 +642,7 @@
 	},
 	{
 		"name": "square_kougokitai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"乞うご期待"
@@ -653,7 +653,7 @@
 	},
 	{
 		"name": "square_kyounochiken",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"今日の知見",
@@ -665,7 +665,7 @@
 	},
 	{
 		"name": "square_kyuusai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"救済",
@@ -678,7 +678,7 @@
 	},
 	{
 		"name": "square_makotoniossharutooridesuwa",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"誠におっしゃる通りですわ"
@@ -689,7 +689,7 @@
 	},
 	{
 		"name": "square_mareniyokuaru",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"まれによくある"
@@ -700,7 +700,7 @@
 	},
 	{
 		"name": "square_meigen",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"名言",
@@ -713,7 +713,7 @@
 	},
 	{
 		"name": "square_mochomocho",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"もちょもちょ"
@@ -724,7 +724,7 @@
 	},
 	{
 		"name": "square_moshikashite",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"もしかして"
@@ -735,7 +735,7 @@
 	},
 	{
 		"name": "square_murikamo",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"無理かも"
@@ -746,7 +746,7 @@
 	},
 	{
 		"name": "square_nahone",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"なーほーね"
@@ -757,7 +757,7 @@
 	},
 	{
 		"name": "square_nainai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ないない"
@@ -768,7 +768,7 @@
 	},
 	{
 		"name": "square_naruhodowakaran",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"なるほどわからん"
@@ -779,7 +779,7 @@
 	},
 	{
 		"name": "square_nekodakarawannnyai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ねこだからわかんにゃい",
@@ -791,7 +791,7 @@
 	},
 	{
 		"name": "square_nekodakedowakatta_exclam",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ねこだけどわかった！",
@@ -803,7 +803,7 @@
 	},
 	{
 		"name": "square_nero",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"寝ろ"
@@ -814,7 +814,7 @@
 	},
 	{
 		"name": "square_nerunerunerune",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ねるねるねるね"
@@ -825,7 +825,7 @@
 	},
 	{
 		"name": "square_neyoune",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ねようね"
@@ -836,7 +836,7 @@
 	},
 	{
 		"name": "square_odaijini",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"おだいじに"
@@ -847,7 +847,7 @@
 	},
 	{
 		"name": "square_oishisou",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"おいしそう"
@@ -858,7 +858,7 @@
 	},
 	{
 		"name": "square_oishisugitemahou",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"おいしすぎて魔法",
@@ -871,7 +871,7 @@
 	},
 	{
 		"name": "square_okashi",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"おかし"
@@ -882,7 +882,7 @@
 	},
 	{
 		"name": "square_oshii",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"おしい！"
@@ -893,7 +893,7 @@
 	},
 	{
 		"name": "square_panjan",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"パンじゃん"
@@ -904,7 +904,7 @@
 	},
 	{
 		"name": "square_roudouwokaishi",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"労働を開始",
@@ -916,7 +916,7 @@
 	},
 	{
 		"name": "square_sanzaishita",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"散財した",
@@ -928,7 +928,7 @@
 	},
 	{
 		"name": "square_seihekinisasaru",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"性癖に刺さる"
@@ -939,7 +939,7 @@
 	},
 	{
 		"name": "square_shigomodo",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"しごもど"
@@ -950,7 +950,7 @@
 	},
 	{
 		"name": "square_shinanaiteidoni",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"死なない程度に"
@@ -961,7 +961,7 @@
 	},
 	{
 		"name": "square_shukkin",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"出勤"
@@ -972,7 +972,7 @@
 	},
 	{
 		"name": "square_sokoniattemonaidesune",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"そこに有っても無いですね"
@@ -983,7 +983,7 @@
 	},
 	{
 		"name": "square_sokoninakerebanaidesune",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"そこに無ければ無いですね"
@@ -994,7 +994,7 @@
 	},
 	{
 		"name": "square_sonnnakotonai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"そんなことない"
@@ -1005,7 +1005,7 @@
 	},
 	{
 		"name": "square_sonosetsuhaaru",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"その説はある"
@@ -1016,7 +1016,7 @@
 	},
 	{
 		"name": "square_soredakeha",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"それだけは！"
@@ -1027,7 +1027,7 @@
 	},
 	{
 		"name": "square_soremomatajinsei",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/gif",
 		"aliases": [
 			"それもまた人生"
@@ -1038,7 +1038,7 @@
 	},
 	{
 		"name": "square_sorosoro",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"そろそろ"
@@ -1049,7 +1049,7 @@
 	},
 	{
 		"name": "square_soukamo",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"そうかも"
@@ -1060,7 +1060,7 @@
 	},
 	{
 		"name": "square_sounano",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"そうなの？"
@@ -1071,7 +1071,7 @@
 	},
 	{
 		"name": "square_sounanoka",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"そうなのか？"
@@ -1082,7 +1082,7 @@
 	},
 	{
 		"name": "square_soushisousai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"相思相愛",
@@ -1094,7 +1094,7 @@
 	},
 	{
 		"name": "square_sugoi",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"すごい！"
@@ -1105,7 +1105,7 @@
 	},
 	{
 		"name": "square_sukikamo",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"すきかも"
@@ -1116,7 +1116,7 @@
 	},
 	{
 		"name": "square_tanoshimi",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/gif",
 		"aliases": [
 			"たのしみ！"
@@ -1127,7 +1127,7 @@
 	},
 	{
 		"name": "square_tawagoto",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"戯言"
@@ -1138,7 +1138,7 @@
 	},
 	{
 		"name": "square_tsuyotsuyo",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"つよつよ"
@@ -1149,7 +1149,7 @@
 	},
 	{
 		"name": "square_wakaranai",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"わからない"
@@ -1160,7 +1160,7 @@
 	},
 	{
 		"name": "square_wakaru",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"わかる"
@@ -1171,7 +1171,7 @@
 	},
 	{
 		"name": "square_zenbunaderu",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ぜんぶなでる",
@@ -1184,7 +1184,7 @@
 	},
 	{
 		"name": "square_zenbunomu",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ぜんぶのむ",
@@ -1197,7 +1197,7 @@
 	},
 	{
 		"name": "square_zenbutaberu",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/png",
 		"aliases": [
 			"ぜんぶたべる",
@@ -1210,7 +1210,7 @@
 	},
 	{
 		"name": "swaying_square_nadenadefes",
-		"category": "squared/general-ja",
+		"category": "Letters/square-ja",
 		"type": "image/gif",
 		"aliases": [
 			"なでなでFES",

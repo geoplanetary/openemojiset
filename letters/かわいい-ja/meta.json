@@ -1,7 +1,7 @@
 [
 	{
 		"name": "square_konokokawaii",
-		"category": "squared/かわいい-ja",
+		"category": "Letters/かわいい-ja",
 		"type": "image/png",
 		"aliases": [
 			"このこかわいい",
@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "square_uchinokokawaii",
-		"category": "squared/かわいい-ja",
+		"category": "Letters/かわいい-ja",
 		"type": "image/png",
 		"aliases": [
 			"うちのこかわいい",
@@ -25,7 +25,7 @@
 	},
 	{
 		"name": "square_yosonokokawaii",
-		"category": "squared/かわいい-ja",
+		"category": "Letters/かわいい-ja",
 		"type": "image/png",
 		"aliases": [
 			"よそのこかわいい",
@@ -37,7 +37,7 @@
 	},
 	{
 		"name": "square_zenbukawaii",
-		"category": "squared/かわいい-ja",
+		"category": "Letters/かわいい-ja",
 		"type": "image/png",
 		"aliases": [
 			"ぜんぶかわいい",

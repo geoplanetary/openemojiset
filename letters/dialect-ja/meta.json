@@ -1,7 +1,7 @@
 [
 	{
 		"name": "square_gominageshita",
-		"category": "squared/dialect-ja",
+		"category": "Letters/dialect-ja",
 		"type": "image/png",
 		"aliases": [
 			"ゴミなげした",
@@ -14,7 +14,7 @@
 	},
 	{
 		"name": "square_menkoi",
-		"category": "squared/dialect-ja",
+		"category": "Letters/dialect-ja",
 		"type": "image/png",
 		"aliases": [
 			"めんこい",
@@ -27,7 +27,7 @@
 	},
 	{
 		"name": "square_nukui",
-		"category": "squared/dialect-ja",
+		"category": "Letters/dialect-ja",
 		"type": "image/png",
 		"aliases": [
 			"ぬくい",
@@ -40,7 +40,7 @@
 	},
 	{
 		"name": "square_osasatta",
-		"category": "squared/dialect-ja",
+		"category": "Letters/dialect-ja",
 		"type": "image/png",
 		"aliases": [
 			"押ささった",
@@ -54,7 +54,7 @@
 	},
 	{
 		"name": "square_shibareru",
-		"category": "squared/dialect-ja",
+		"category": "Letters/dialect-ja",
 		"type": "image/png",
 		"aliases": [
 			"しばれる",
@@ -68,7 +68,7 @@
 	},
 	{
 		"name": "square_syakkoi",
-		"category": "squared/dialect-ja",
+		"category": "Letters/dialect-ja",
 		"type": "image/png",
 		"aliases": [
 			"しゃっこい",
@@ -82,7 +82,7 @@
 	},
 	{
 		"name": "square_wayadawa",
-		"category": "squared/dialect-ja",
+		"category": "Letters/dialect-ja",
 		"type": "image/png",
 		"aliases": [
 			"わやだわ",

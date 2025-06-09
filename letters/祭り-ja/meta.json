@@ -1,90 +1,76 @@
 [
 	{
-		"name": "square_ashi",
-		"category": "squared/oldbook-ja",
+		"name": "square_arigatofes",
+		"category": "Letters/祭り-ja",
 		"type": "image/png",
 		"aliases": [
-			"あし"
+			"ありがと祭り"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_haruhaagemono",
-		"category": "squared/oldbook-ja",
+		"name": "square_bikkurifes",
+		"category": "Letters/祭り-ja",
 		"type": "image/png",
 		"aliases": [
-			"はるはあげもの",
-			"はるはあけぼの"
+			"びっくり祭り"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_haruhaagepoyo",
-		"category": "squared/oldbook-ja",
+		"name": "square_dosukebefes",
+		"category": "Letters/祭り-ja",
 		"type": "image/png",
 		"aliases": [
-			"はるはあげぽよ",
-			"はるはあけぼの"
+			"どすけべ祭り"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_haruhaakebono",
-		"category": "squared/oldbook-ja",
+		"name": "square_kawaiifes",
+		"category": "Letters/祭り-ja",
 		"type": "image/png",
 		"aliases": [
-			"はるはあけぼの",
-			"春はあけぼの"
+			"かわいい祭り"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_ito",
-		"category": "squared/oldbook-ja",
+		"name": "square_naruhodofes",
+		"category": "Letters/祭り-ja",
 		"type": "image/png",
 		"aliases": [
-			"いと"
+			"なるほど祭り"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_waroshi",
-		"category": "squared/oldbook-ja",
+		"name": "square_tasukarufes",
+		"category": "Letters/祭り-ja",
 		"type": "image/png",
 		"aliases": [
-			"わろし"
+			"たすかる祭り"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
 		"isSensitive": false
 	},
 	{
-		"name": "square_wokashi",
-		"category": "squared/oldbook-ja",
+		"name": "square_tasuketefes",
+		"category": "Letters/祭り-ja",
 		"type": "image/png",
 		"aliases": [
-			"をかし"
-		],
-		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
-		"localOnly": false,
-		"isSensitive": false
-	},
-	{
-		"name": "square_yoshi",
-		"category": "squared/oldbook-ja",
-		"type": "image/png",
-		"aliases": [
-			"よし"
+			"たすけて祭り"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
 		"localOnly": false,
