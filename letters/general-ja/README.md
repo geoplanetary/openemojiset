@@ -4,7 +4,7 @@
 
 ## Contents
 
-- `focused_landscape_konnnakotomoaroukato`\
+- `focused_konnnakotomoaroukato`\
   (一般には`konnakotomo_aroukato`として知られています)\
   author: まきはら ([@makihara@fedibird.com](https://fedibird.com/@makihara))\
   license: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)\

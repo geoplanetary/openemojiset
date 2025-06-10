@@ -2,7 +2,7 @@
 
 letters/general-ja: \
   letters/general-ja/meta.json \
-  letters/general-ja/focused_landscape_konnnakotomoaroukato.png \
+  letters/general-ja/focused_konnnakotomoaroukato.png \
   letters/general-ja/hellsing_major_krieg_speech.png \
   letters/general-ja/landscape_bonnnoujinohen.png \
   letters/general-ja/landscape_ideograph_goldenweek.gif \
