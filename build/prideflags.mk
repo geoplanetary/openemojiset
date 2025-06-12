@@ -1,7 +1,21 @@
-.PHONY: prideflags prideflags.clean
+# PrideFlags
 
-prideflags: \
-  prideflags/meta.json \
+prideflags: prideflags.zip
+
+.prideflags.pre:
+	mkdir -p prideflags
+	touch .prideflags.pre
+
+prideflags.clean:
+	-rm -rf prideflags/
+	-rm prideflags.zip
+	-rm .prideflags.pre
+
+prideflags.meta= prideflags/meta.json
+
+prideflags.meta: $(prideflags.meta)
+
+prideflags.assets= \
   prideflags/flag_ace.png \
   prideflags/flag_agender.png \
   prideflags/flag_aromantic.png \
@@ -61,13 +75,13 @@ prideflags: \
   prideflags/fire_sapphic.png \
   prideflags/fire_trans.png
 
-prideflags.clean:
-	-rm -rf prideflags/
-	-rm .prideflags.pre
+prideflags.assets: $(prideflags.assets)
 
-.prideflags.pre: .blobs.pre
-	mkdir -p prideflags
-	touch .prideflags.pre
+prideflags.check: $(prideflags.meta) $(prideflags.assets)
+	.script/check_metadata_integrity.sh prideflags
+
+prideflags.zip: $(prideflags.meta) $(prideflags.assets)
+	cd prideflags && zip ../prideflags.zip meta.json ./*.png
 
 prideflags/meta.json: ../prideflags/meta.json .prideflags.pre
 	.script/build_metadata.sh ../prideflags/meta.json > prideflags/meta.json
@@ -303,3 +317,7 @@ prideflags/fire_sapphic.png: ../submodules/QueerCats/Fire/SVG/Fire_Sapphic.svg .
 prideflags/fire_trans.png: ../submodules/QueerCats/Fire/SVG/Fire_Trans.svg .prideflags.pre
 	resvg -z 0.5 --dpi 384 ../submodules/QueerCats/Fire/SVG/Fire_Trans.svg prideflags/fire_trans.png
 	optipng -q prideflags/fire_trans.png
+
+# ------------------------------------ #
+
+.PHONY: prideflags prideflags.clean prideflags.meta prideflags.assets prideflags.check
