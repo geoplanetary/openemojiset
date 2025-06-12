@@ -38,6 +38,7 @@ emoji_assets= \
   letters/たれ-ja/*.png \
   letters/はなし-ja/*.gif \
   letters/祭り-ja/*.png \
+  prideflags/*.png \
   twemoji/*.png
 
 emoji_metadata_list= \
@@ -63,6 +64,7 @@ emoji_metadata_list= \
   letters/たれ-ja/meta.json \
   letters/はなし-ja/meta.json \
   letters/祭り-ja/meta.json \
+  prideflags/meta.json \
   twemoji/meta.json
 
 emojis.zip: .emojis.pre assets
