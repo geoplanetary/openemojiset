@@ -8,7 +8,7 @@ Misskey 、もしくはそのフォークサーバーで使用することを想
 
 ## 謝辞
 
-このリポジトリに収録されているカスタム絵文字の製作者に感謝します。
+このリポジトリに収録されているカスタム絵文字の制作者に感謝します。
 
 - Blob emoji(Google Inc. & Arjen Nienhuis)
 - [elke](https://elke.cafe/)
