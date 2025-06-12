@@ -1115,6 +1115,18 @@
 		"isSensitive": false
 	},
 	{
+		"name": "square_taikin",
+		"category": "Letters/square-ja",
+		"type": "image/png",
+		"aliases": [
+			"退勤",
+			"taikin"
+		],
+		"license": "Public Domain, Created by まなさす(@thetalemon@himagine.club). see https://himagine.club/notes/9hzxgqbtzdv3du5j",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "square_tanoshimi",
 		"category": "Letters/square-ja",
 		"type": "image/gif",

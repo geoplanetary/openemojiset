@@ -136,6 +136,12 @@
   license: [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)\
   source: https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0
 
+- `square_taikin`\
+  (一般には`taikin`として知られています)\
+  author: まなさす([@thetalemon@himagine.club](https://himagine.club/@thetalemon))\
+  license: Public Domain\
+  source: https://himagine.club/notes/9hzxgqbtzdv3du5j
+
 - `square_zenbunaderu`\
   (一般には`zenbu_naderu`として知られています)\
   author: 桜川七帆([@nanairo3977@m.77iro.life](https://m.77iro.life/@nanairo3977))\

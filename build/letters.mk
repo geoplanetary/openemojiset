@@ -304,6 +304,7 @@ letters/square-ja.assets= \
   letters.assets/square-ja/square_soushisousai.png \
   letters.assets/square-ja/square_sugoi.png \
   letters.assets/square-ja/square_sukikamo.png \
+  letters.assets/square-ja/square_taikin.png \
   letters.assets/square-ja/square_tanoshimi.gif \
   letters.assets/square-ja/square_tawagoto.png \
   letters.assets/square-ja/square_tsuyotsuyo.png \
