@@ -37,4 +37,4 @@ barcode/%.png: ../barcode/ean/%.svg .barcode.pre
 
 # ------------------------------------ #
 
-.PHONY: barcode barcode.clean
+.PHONY: barcode barcode.clean barcode.meta barcode.assets barcode.check
