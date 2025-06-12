@@ -1,7 +1,4 @@
 # Blobs
-# Blob emojis make rules
-
-.PHONY: blobs blobs.clean blobs.assets blobs/blobbluebird blobs/blobbluebird.clean blobs/blobbluebird.assets blobs/blobcat blobs/blobcat.clean blobs/blobcat.assets blobs/blobemoji blobs/blobemoji.clean blobs/blobemoji.assets blobs/blobfox blobs/blobfox.clean blobs/blobfox.assets blobs/cat_is_blob blobs/cat_is_blob.clean blobs/cat_is_blob.assets blobs/meowmoji blobs/meowmoji.clean blobs/meowmoji.assets blobs/queercats blobs/queercats.clean blobs/queercats.assets
 
 .blobs.pre:
 	mkdir -p blobs
@@ -1743,3 +1740,15 @@ blobs/queercats/queercatmorningcoffee_sapphic.png: ../submodules/QueerCats/Morni
 blobs/queercats/queercatmorningcoffee_transgender.png: ../submodules/QueerCats/MorningCoffee/SVG/QueerCatMorningCoffee_Transgender.svg blobs/.queercats.pre
 	resvg -z 0.5 --dpi 384 ../submodules/QueerCats/MorningCoffee/SVG/QueerCatMorningCoffee_Transgender.svg blobs/queercats/queercatmorningcoffee_transgender.png
 	optipng -q blobs/queercats/queercatmorningcoffee_transgender.png
+
+# ------------------------------------ #
+
+.PHONY: \
+  blobs blobs.clean blobs.assets \
+  blobs/blobbluebird blobs/blobbluebird.clean blobs/blobbluebird.assets \
+  blobs/blobcat blobs/blobcat.clean blobs/blobcat.assets \
+  blobs/blobemoji blobs/blobemoji.clean blobs/blobemoji.assets \
+  blobs/blobfox blobs/blobfox.clean blobs/blobfox.assets \
+  blobs/cat_is_blob blobs/cat_is_blob.clean blobs/cat_is_blob.assets \
+  blobs/meowmoji blobs/meowmoji.clean blobs/meowmoji.assets \
+  blobs/queercats blobs/queercats.clean blobs/queercats.assets
