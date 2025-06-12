@@ -1,7 +1,21 @@
-.PHONY: bunhd bunhd.clean
+# BunHD
 
-bunhd: \
-  bunhd/meta.json \
+bunhd: bunhd.zip
+
+bunhd.clean:
+	-rm -rf bunhd/
+	-rm bunhd.zip
+	-rm .bunhd.pre
+
+.bunhd.pre:
+	mkdir -p bunhd
+	touch .bunhd.pre
+
+bunhd.meta= bunhd/meta.json
+
+bunhd.meta: $(bunhd.meta)
+
+bunhd.assets= \
   bunhd/abunhd.png \
   bunhd/abunhdcry.png \
   bunhd/abunhdhappy.png \
@@ -38,13 +52,13 @@ bunhd: \
   bunhd/bunhdthinking.png \
   bunhd/bunhduwu.png
 
-bunhd.clean:
-	-rm -rf bunhd/
-	-rm .bunhd.pre
+bunhd.assets: $(bunhd.assets)
 
-.bunhd.pre:
-	mkdir -p bunhd
-	touch .bunhd.pre
+bunhd.check: $(bunhd.meta) $(bunhd.assets)
+	.script/check_metadata_integrity.sh bunhd
+
+bunhd.zip: $(bunhd.meta) $(bunhd.assets)
+	cd bunhd && zip ../bunhd.zip meta.json ./*.png
 
 bunhd/meta.json: ../bunhd/meta.json .bunhd.pre
 	.script/build_metadata.sh ../bunhd/meta.json > bunhd/meta.json
