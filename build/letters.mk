@@ -2,7 +2,7 @@
 
 letters: letters.zip
 
-letters.clean: letters/cthulhu-ja.clean letters/dialect-ja.clean letters/general-ja.clean letters/greetings-ja.clean letters/oldbook-ja.clean letters/square-ja.clean letters/subtitle-ja.clean letters/かわいい-ja.clean letters/たれ-ja.clean letters/はなし-ja.clean letters/祭り-ja.clean
+letters.clean: letters/cthulhu-ja.clean letters/dialect-ja.clean letters/general-ja.clean letters/greetings-ja.clean letters/oldbook-ja.clean letters/square-ja.clean letters/subtitle-ja.clean letters/かわいい-ja.clean letters/たれ-ja.clean letters/はなし-ja.clean letters/偉業-ja.clean letters/祭り-ja.clean
 	-rm letters.zip
 	-rm -rf letters/
 	-rm .letters.assets
@@ -96,9 +96,27 @@ letters/general-ja.meta: $(letters/general-ja.meta)
 letters/general-ja.assets= \
   letters.assets/general-ja/focused_konnnakotomoaroukato.png \
   letters.assets/general-ja/hellsing_major_krieg_speech.png \
+  letters.assets/general-ja/landscape_axya.png \
   letters.assets/general-ja/landscape_bonnnoujinohen.png \
+  letters.assets/general-ja/landscape_henyohenyo.png \
+  letters.assets/general-ja/landscape_honya.png \
   letters.assets/general-ja/landscape_ideograph_goldenweek.gif \
+  letters.assets/general-ja/landscape_ishokudougen.png \
   letters.assets/general-ja/landscape_kanzennnikore.png \
+  letters.assets/general-ja/landscape_madanekojanai.png \
+  letters.assets/general-ja/landscape_madanenyai.png \
+  letters.assets/general-ja/landscape_nekodakarashikatanyai.png \
+  letters.assets/general-ja/landscape_nekodakarawakannnyai.png \
+  letters.assets/general-ja/landscape_nekodakedowakaritai.png \
+  letters.assets/general-ja/landscape_nekodakedowakatta.png \
+  letters.assets/general-ja/landscape_nekokamoshirenyai.png \
+  letters.assets/general-ja/landscape_nuxe.png \
+  letters.assets/general-ja/landscape_okirarenyai.png \
+  letters.assets/general-ja/landscape_payoxyon.png \
+  letters.assets/general-ja/landscape_pesho.png \
+  letters.assets/general-ja/landscape_ponyashuchi.png \
+  letters.assets/general-ja/landscape_sakyubasu.png \
+  letters.assets/general-ja/landscape_yokidane.png \
   letters.assets/general-ja/scrolling_shigotogahayasugitemienai.gif
 
 letters.assets/general-ja/%.png:: ../letters/general-ja/%.svg letters.assets/general-ja.pre
@@ -349,6 +367,10 @@ letters/かわいい-ja.meta= letters.meta/かわいい-ja.json
 letters/かわいい-ja.meta: $(letters/かわいい-ja.meta)
 
 letters/かわいい-ja.assets= \
+  letters.assets/かわいい-ja/landscape_konokokawaii.png \
+  letters.assets/かわいい-ja/landscape_uchinokokawaii.png \
+  letters.assets/かわいい-ja/landscape_yosonokokawaii.png \
+  letters.assets/かわいい-ja/landscape_zenbukawaii.png \
   letters.assets/かわいい-ja/square_konokokawaii.png \
   letters.assets/かわいい-ja/square_uchinokokawaii.png \
   letters.assets/かわいい-ja/square_yosonokokawaii.png \
@@ -430,6 +452,30 @@ letters.assets/はなし-ja/%.gif:: ../letters/はなし-ja/%.gif letters.assets
 	cp "$<" "$@"
 
 
+# 偉業-ja ---------------------------- #
+letters/偉業-ja: letters/偉業-ja.meta letters/偉業-ja.assets
+
+letters/偉業-ja.clean:
+	-rm -rf letters.assets/偉業-ja/
+	-rm letters.assets/偉業-ja.pre
+
+letters.assets/偉業-ja.pre: .letters.assets.pre
+	mkdir -p letters.assets/偉業-ja
+	touch letters.assets/偉業-ja.pre
+
+letters/偉業-ja.meta= letters.meta/偉業-ja.json
+
+letters/偉業-ja.meta: $(letters/偉業-ja.meta)
+
+letters/偉業-ja.assets= \
+  letters.assets/偉業-ja/landscape_sanzaihaigyou.png
+
+letters/偉業-ja.assets: $(letters/偉業-ja.assets)
+
+letters.assets/偉業-ja/%.png:: ../letters/偉業-ja/%.png letters.assets/偉業-ja.pre
+	optipng -q --fix "$<" -out "$@"
+
+
 # 祭り-ja ---------------------------- #
 letters/祭り-ja: letters/祭り-ja.meta letters/祭り-ja.assets
 
@@ -473,6 +519,7 @@ letters.meta= \
   $(letters/かわいい-ja.meta) \
   $(letters/たれ-ja.meta) \
   $(letters/はなし-ja.meta) \
+  $(letters/偉業-ja.meta) \
   $(letters/祭り-ja.meta)
 
 letters.meta: $(letters.meta)
@@ -492,6 +539,7 @@ letters.assets= \
   $(letters/かわいい-ja.assets) \
   $(letters/たれ-ja.assets) \
   $(letters/はなし-ja.assets) \
+  $(letters/偉業-ja.assets) \
   $(letters/祭り-ja.assets)
 
 letters.assets: $(letters.assets)
@@ -523,4 +571,5 @@ letters.meta/%.json: ../letters/%/meta.json .letters.meta.pre
   letters/かわいい-ja letters/かわいい-ja.clean letters/かわいい-ja.meta letters/かわいい-ja.assets \
   letters/たれ-ja letters/たれ-ja.clean letters/たれ-ja.meta letters/たれ-ja.assets \
   letters/はなし-ja letters/はなし-ja.clean letters/はなし-ja.meta letters/はなし-ja.assets \
+  letters/偉業-ja letters/偉業-ja.clean letters/偉業-ja.meta letters/偉業-ja.assets \
   letters/祭り-ja letters/祭り-ja.clean letters/祭り-ja.meta letters/祭り-ja.assets

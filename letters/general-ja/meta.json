@@ -24,6 +24,18 @@
 		"isSensitive": true
 	},
 	{
+		"name": "landscape_axya",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"あゃ〜？",
+			"ayaa_q"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "landscape_bonnnoujinohen",
 		"category": "Letters/general-ja",
 		"type": "image/png",
@@ -32,6 +44,30 @@
 			"bonnoujinohen02"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by まきはら(@makihara@fedibird.com). see https://fedibird.com/@makihara/111385017248877449",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_henyohenyo",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"へにょへにょ",
+			"henyohenyo"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_honya",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ほにゃ〜？",
+			"honya_q"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,
 		"isSensitive": false
 	},
@@ -47,6 +83,18 @@
 		"isSensitive": false
 	},
 	{
+		"name": "landscape_ishokudougen",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"医食同源",
+			"isyokudougen"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
 		"name": "landscape_kanzennnikore",
 		"category": "Letters/general-ja",
 		"type": "image/png",
@@ -54,6 +102,177 @@
 			"完全にこれ"
 		],
 		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by zawa-ch.(@stellar_ch@geoplanetary.net).",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_madanekojanai",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"まだねこじゃない",
+			"madanekozyanai"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_madanenyai",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"まだねにゃい",
+			"madanenyai"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_nekodakarashikatanyai",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ねこだからしかたにゃい",
+			"neko_dakara_shikatanyai"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_nekodakarawakannnyai",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ねこだからわかんにゃい",
+			"neko_dakara_wakannyai2"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_nekodakedowakaritai",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ねこだけどわかりたい！",
+			"neko_dakedo_wakaritai"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_nekodakedowakatta",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ねこだけどわかった！",
+			"neko_dakedo_wakatta2"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_nekokamoshirenyai",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ねこかもしれにゃい",
+			"nekokamosirenyai"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_nuxe",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ぬぇ〜",
+			"nuee"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_okirarenyai",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"おきられにゃい",
+			"okirarenyai"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_payoxyon",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ぱよょん",
+			"ぱそこん",
+			"PC",
+			"payoyon"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_pesho",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ぺしょ…",
+			"pesyo"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_ponyashuchi",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"ぽにゃしゅち",
+			"おなかすいた",
+			"ponyasyuti"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_sakyubasu",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"サキュバス",
+			"succubus"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
+		"localOnly": false,
+		"isSensitive": false
+	},
+	{
+		"name": "landscape_yokidane",
+		"category": "Letters/general-ja",
+		"type": "image/png",
+		"aliases": [
+			"よきだね！",
+			"yokidane"
+		],
+		"license": "CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/), Created by 桜川七帆(@nanairo3977@m.77iro.life). see https://m.77iro.life/@nanairo3977/pages/emoji_pd_cc0",
 		"localOnly": false,
 		"isSensitive": false
 	},
