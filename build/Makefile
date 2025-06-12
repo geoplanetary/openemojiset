@@ -21,7 +21,7 @@ assets: barcode blobs bunhd game handwritten letters prideflags twemoji
 assets.clean: barcode.clean blobs.clean bunhd.clean game.clean handwritten.clean letters.clean prideflags.clean twemoji.clean
 
 check: emojis
-	.script/check_metadata_integrity.sh
+	.script/check_metadata_integrity.sh emojis
 
 include barcode.mk
 include blobs.mk
