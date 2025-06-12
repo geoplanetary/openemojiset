@@ -18,7 +18,6 @@ twemoji.meta: $(twemoji.meta)
 twemoji.assets= \
   twemoji/squared_16.png \
   twemoji/squared_32.png \
-  twemoji/squared_32.png \
   twemoji/squared_64.png \
   twemoji/squared_128.png \
   twemoji/squared_256.png \
