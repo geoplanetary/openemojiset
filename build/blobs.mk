@@ -1503,7 +1503,6 @@ blobs/queercats.meta= blobs/queercats/meta.json
 blobs/queercats.meta: $(blobs/queercats.meta)
 
 blobs/queercats.assets= \
-  blobs/queercats/meta.json \
   blobs/queercats/queercat.png \
   blobs/queercats/queercat_ace.png \
   blobs/queercats/queercat_agender.png \
