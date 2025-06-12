@@ -1,5 +1,7 @@
 # Blobs
 
+blobs: blobs/blobbluebird blobs/blobcat blobs/blobemoji blobs/blobfox blobs/cat_is_blob blobs/meowmoji blobs/queercats
+
 .blobs.pre:
 	mkdir -p blobs
 	touch .blobs.pre
@@ -8,33 +10,23 @@ blobs.clean: blobs/blobbluebird.clean blobs/blobemoji.clean blobs/blobcat.clean 
 	-rm -rf blobs/
 	-rm .blobs.pre
 
-blobs.assets= \
-  $(blobs/blobbluebird.assets) \
-  $(blobs/blobcat.assets) \
-  $(blobs/blobemoji.assets) \
-  $(blobs/blobfox.assets) \
-  $(blobs/cat_is_blob.assets) \
-  $(blobs/meowmoji.assets) \
-  $(blobs/queercats.assets)
-
-blobs.assets: $(blobs.assets)
-
-blobs: blobs/blobbluebird blobs/blobemoji blobs/blobcat blobs/blobfox blobs/cat_is_blob blobs/meowmoji blobs/queercats
-
-blobs/%/meta.json: ../blobs/%/meta.json blobs/.%.pre
-	.script/build_metadata.sh "$<" > "$@"
-
 ## BlobBluebird
+blobs/blobbluebird: blobs.blobbluebird.zip
+
 blobs/.blobbluebird.pre: .blobs.pre
 	mkdir -p "blobs/blobbluebird"
 	touch "blobs/.blobbluebird.pre"
 
 blobs/blobbluebird.clean:
 	-rm -rf "blobs/blobbluebird/"
+	-rm "blobs.blobbluebird.zip"
 	-rm "blobs/.blobbluebird.pre"
 
+blobs/blobbluebird.meta= blobs/blobbluebird/meta.json
+
+blobs/blobbluebird.meta: $(blobs/blobbluebird.meta)
+
 blobs/blobbluebird.assets= \
-  blobs/blobbluebird/meta.json \
   blobs/blobbluebird/blobbluebird.webp \
   blobs/blobbluebird/blobbluebirdbandaid.webp \
   blobs/blobbluebird/blobbluebirdcry.webp \
@@ -45,29 +37,43 @@ blobs/blobbluebird.assets= \
 
 blobs/blobbluebird.assets: $(blobs/blobbluebird.assets)
 
-blobs/blobbluebird: blobs/blobbluebird.assets
+blobs/blobbluebird.check: $(blobs/blobbluebird.meta) $(blobs/blobbluebird.assets)
+	.script/check_metadata_integrity.sh blobs/blobbluebird
+
+blobs.blobbluebird.zip: $(blobs/blobbluebird.meta) $(blobs/blobbluebird.assets)
+	cd blobs/blobbluebird && zip ../../blobs.blobbluebird.zip meta.json ./*.webp
 
 blobs/blobbluebird/%.webp: ../blobs/blobbluebird/%.webp blobs/.blobbluebird.pre
 	cp "$<" "$@"
 
 
 # Blobcat
+blobs/blobcat: blobs.blobcat.zip
+
 blobs/.blobcat.pre: .blobs.pre
 	mkdir -p "blobs/blobcat"
 	touch "blobs/.blobcat.pre"
 
 blobs/blobcat.clean:
 	-rm -rf "blobs/blobcat/"
+	-rm "blobs.blobcat.zip"
 	-rm "blobs/.blobcat.pre"
 
+blobs/blobcat.meta= blobs/blobcat/meta.json
+
+blobs/blobcat.meta: $(blobs/blobcat.meta)
+
 blobs/blobcat.assets= \
-  blobs/blobcat/meta.json \
   blobs/blobcat/ablobcatcyclone.png \
   blobs/blobcat/blobcatowo.png
 
 blobs/blobcat.assets: $(blobs/blobcat.assets)
 
-blobs/blobcat: blobs/blobcat.assets
+blobs/blobcat.check: $(blobs/blobcat.meta) $(blobs/blobcat.assets)
+	.script/check_metadata_integrity.sh blobs/blobcat
+
+blobs.blobcat.zip: $(blobs/blobcat.meta) $(blobs/blobcat.assets)
+	cd blobs/blobcat && zip ../../blobs.blobcat.zip meta.json ./*.png
 
 blobs/blobcat/%.png:: ../blobs/blobcat/%.svg blobs/.blobcat.pre
 	resvg -z 4 --dpi 384 "$<" "$@"
@@ -78,16 +84,22 @@ blobs/blobcat/%.png:: ../blobs/blobcat/%.png blobs/.blobcat.pre
 
 
 # Blob Emoji
+blobs/blobemoji: blobs.blobemoji.zip
+
 blobs/.blobemoji.pre: .blobs.pre
 	mkdir -p "blobs/blobemoji"
 	touch "blobs/.blobemoji.pre"
 
 blobs/blobemoji.clean:
 	-rm -rf "blobs/blobemoji/"
+	-rm "blobs.blobemoji.zip"
 	-rm "blobs/.blobemoji.pre"
 
+blobs/blobemoji.meta= blobs/blobemoji/meta.json
+
+blobs/blobemoji.meta: $(blobs/blobemoji.meta)
+
 blobs/blobemoji.assets= \
-  blobs/blobemoji/meta.json \
   blobs/blobemoji/blobgoodnightreverse.png \
   blobs/blobemoji/blobgoodmorningreverse.png \
   blobs/blobemoji/blobgoodmorning.png \
@@ -638,7 +650,11 @@ blobs/blobemoji.assets= \
 
 blobs/blobemoji.assets: $(blobs/blobemoji.assets)
 
-blobs/blobemoji: blobs/blobemoji.assets
+blobs/blobemoji.check: $(blobs/blobemoji.meta) $(blobs/blobemoji.assets)
+	.script/check_metadata_integrity.sh blobs/blobemoji
+
+blobs.blobemoji.zip: $(blobs/blobemoji.meta) $(blobs/blobemoji.assets)
+	cd blobs/blobemoji && zip ../../blobs.blobemoji.zip meta.json ./*.png ./*.gif
 
 blobs/blobemoji/%.png: ../blobs/blobemoji/%.png blobs/.blobemoji.pre
 	optipng -q --fix "$<" -out "$@"
@@ -648,16 +664,22 @@ blobs/blobemoji/%.gif: ../blobs/blobemoji/%.gif blobs/.blobemoji.pre
 
 
 # Blobfox
+blobs/blobfox: blobs.blobfox.zip
+
 blobs/.blobfox.pre: .blobs.pre
 	mkdir -p "blobs/blobfox"
 	touch "blobs/.blobfox.pre"
 
 blobs/blobfox.clean:
 	-rm -rf "blobs/blobfox/"
+	-rm "blobs.blobfox.zip"
 	-rm "blobs/.blobfox.pre"
 
+blobs/blobfox.meta= blobs/blobfox/meta.json
+
+blobs/blobfox.meta: $(blobs/blobfox.meta)
+
 blobs/blobfox.assets= \
-  blobs/blobfox/meta.json \
   blobs/blobfox/ablobfoxbongo.png \
   blobs/blobfox/ablobfoxbongohyper.png \
   blobs/blobfox/ablobfoxbongoterrified.png \
@@ -989,23 +1011,33 @@ blobs/blobfox.assets= \
 
 blobs/blobfox.assets: $(blobs/blobfox.assets)
 
-blobs/blobfox: blobs/blobfox.assets
+blobs/blobfox.check: $(blobs/blobfox.meta) $(blobs/blobfox.assets)
+	.script/check_metadata_integrity.sh blobs/blobfox
+
+blobs.blobfox.zip: $(blobs/blobfox.meta) $(blobs/blobfox.assets)
+	cd blobs/blobfox && zip ../../blobs.blobfox.zip meta.json ./*.png
 
 blobs/blobfox/%.png: ../blobs/blobfox/%.png blobs/.blobfox.pre
 	optipng -q --fix "$<" -out "$@"
 
 
 # Cat Is Blob
+blobs/cat_is_blob: blobs.cat_is_blob.zip
+
 blobs/.cat_is_blob.pre: .blobs.pre
 	mkdir -p "blobs/cat_is_blob"
 	touch "blobs/.cat_is_blob.pre"
 
 blobs/cat_is_blob.clean:
 	-rm -rf "blobs/cat_is_blob/"
+	-rm "blobs.cat_is_blob.zip"
 	-rm "blobs/.cat_is_blob.pre"
 
+blobs/cat_is_blob.meta= blobs/cat_is_blob/meta.json
+
+blobs/cat_is_blob.meta: $(blobs/cat_is_blob.meta)
+
 blobs/cat_is_blob.assets= \
-  blobs/cat_is_blob/meta.json \
   blobs/cat_is_blob/cat_is_blob_and_ace.gif \
   blobs/cat_is_blob/cat_is_blob_and_agender.gif \
   blobs/cat_is_blob/cat_is_blob_and_ancom.gif \
@@ -1048,23 +1080,33 @@ blobs/cat_is_blob.assets= \
 
 blobs/cat_is_blob.assets: $(blobs/cat_is_blob.assets)
 
-blobs/cat_is_blob: blobs/cat_is_blob.assets
+blobs/cat_is_blob.check: $(blobs/cat_is_blob.meta) $(blobs/cat_is_blob.assets)
+	.script/check_metadata_integrity.sh blobs/cat_is_blob
+
+blobs.cat_is_blob.zip: $(blobs/cat_is_blob.meta) $(blobs/cat_is_blob.assets)
+	cd blobs/cat_is_blob && zip ../../blobs.cat_is_blob.zip meta.json ./*.gif
 
 blobs/cat_is_blob/%.gif: ../submodules/cat-is-blob/%.gif blobs/.cat_is_blob.pre
 	cp "$<" "$@"
 
 
 # Meowmoji
+blobs/meowmoji: blobs.meowmoji.zip
+
 blobs/.meowmoji.pre: .blobs.pre
 	mkdir -p "blobs/meowmoji"
 	touch "blobs/.meowmoji.pre"
 
 blobs/meowmoji.clean:
 	-rm -rf "blobs/meowmoji/"
+	-rm "blobs.meowmoji.zip"
 	-rm "blobs/.meowmoji.pre"
 
+blobs/meowmoji.meta= blobs/meowmoji/meta.json
+
+blobs/meowmoji.meta: $(blobs/meowmoji.meta)
+
 blobs/meowmoji.assets= \
-  blobs/meowmoji/meta.json \
   blobs/meowmoji/ameowsweats.gif \
   blobs/meowmoji/ameowsparkle.gif \
   blobs/meowmoji/ameowwave.gif \
@@ -1431,7 +1473,11 @@ blobs/meowmoji.assets= \
 
 blobs/meowmoji.assets: $(blobs/meowmoji.assets)
 
-blobs/meowmoji: blobs/meowmoji.assets
+blobs/meowmoji.check: $(blobs/meowmoji.meta) $(blobs/meowmoji.assets)
+	.script/check_metadata_integrity.sh blobs/meowmoji
+
+blobs.meowmoji.zip: $(blobs/meowmoji.meta) $(blobs/meowmoji.assets)
+	cd blobs/meowmoji && zip ../../blobs.meowmoji.zip meta.json ./*.png ./*.gif
 
 blobs/meowmoji/%.png: ../blobs/meowmoji/%.png blobs/.meowmoji.pre
 	optipng -q --fix "$<" -out "$@"
@@ -1441,13 +1487,20 @@ blobs/meowmoji/%.gif: ../blobs/meowmoji/%.gif blobs/.meowmoji.pre
 
 
 # QueetCats
+blobs/queercats: blobs.queercats.zip
+
 blobs/.queercats.pre: .blobs.pre
 	mkdir -p "blobs/queercats"
 	touch "blobs/.queercats.pre"
 
 blobs/queercats.clean:
 	-rm -rf "blobs/queercats/"
+	-rm "blobs.queercats.zip"
 	-rm "blobs/.queercats.pre"
+
+blobs/queercats.meta= blobs/queercats/meta.json
+
+blobs/queercats.meta: $(blobs/queercats.meta)
 
 blobs/queercats.assets= \
   blobs/queercats/meta.json \
@@ -1511,7 +1564,11 @@ blobs/queercats.assets= \
 
 blobs/queercats.assets: $(blobs/queercats.assets)
 
-blobs/queercats: blobs/queercats.assets
+blobs/queercats.check: $(blobs/queercats.meta) $(blobs/queercats.assets)
+	.script/check_metadata_integrity.sh blobs/queercats
+
+blobs.queercats.zip: $(blobs/queercats.meta) $(blobs/queercats.assets)
+	cd blobs/queercats && zip ../../blobs.queercats.zip meta.json ./*.png
 
 blobs/queercats/queercat.png: ../submodules/QueerCats/SVG/Queer\ Cat.svg blobs/.queercats.pre
 	resvg -z 0.5 --dpi 384 '../submodules/QueerCats/SVG/Queer Cat.svg' blobs/queercats/queercat.png
@@ -1743,12 +1800,41 @@ blobs/queercats/queercatmorningcoffee_transgender.png: ../submodules/QueerCats/M
 
 # ------------------------------------ #
 
+blobs.meta= \
+  $(blobs/blobbluebird.meta) \
+  $(blobs/blobcat.meta) \
+  $(blobs/blobemoji.meta) \
+  $(blobs/blobfox.meta) \
+  $(blobs/cat_is_blob.meta) \
+  $(blobs/meowmoji.meta) \
+  $(blobs/queercats.meta)
+
+blobs.meta: $(blobs.meta)
+
+blobs.assets= \
+  $(blobs/blobbluebird.assets) \
+  $(blobs/blobcat.assets) \
+  $(blobs/blobemoji.assets) \
+  $(blobs/blobfox.assets) \
+  $(blobs/cat_is_blob.assets) \
+  $(blobs/meowmoji.assets) \
+  $(blobs/queercats.assets)
+
+blobs.assets: $(blobs.assets)
+
+blobs.check: blobs/blobbluebird.check blobs/blobcat.check blobs/blobemoji.check blobs/blobfox.check blobs/cat_is_blob.check blobs/meowmoji.check blobs/queercats.check
+
+blobs/%/meta.json: ../blobs/%/meta.json blobs/.%.pre
+	.script/build_metadata.sh "$<" > "$@"
+
+# ------------------------------------ #
+
 .PHONY: \
-  blobs blobs.clean blobs.assets \
-  blobs/blobbluebird blobs/blobbluebird.clean blobs/blobbluebird.assets \
-  blobs/blobcat blobs/blobcat.clean blobs/blobcat.assets \
-  blobs/blobemoji blobs/blobemoji.clean blobs/blobemoji.assets \
-  blobs/blobfox blobs/blobfox.clean blobs/blobfox.assets \
-  blobs/cat_is_blob blobs/cat_is_blob.clean blobs/cat_is_blob.assets \
-  blobs/meowmoji blobs/meowmoji.clean blobs/meowmoji.assets \
-  blobs/queercats blobs/queercats.clean blobs/queercats.assets
+  blobs blobs.clean blobs.meta blobs.assets blobs.check \
+  blobs/blobbluebird blobs/blobbluebird.clean blobs/blobbluebird.meta blobs/blobbluebird.assets blobs/blobbluebird.check \
+  blobs/blobcat blobs/blobcat.clean blobs/blobcat.meta blobs/blobcat.assets blobs/blobcat.check \
+  blobs/blobemoji blobs/blobemoji.clean blobs/blobemoji.meta blobs/blobemoji.assets blobs/blobemoji.check \
+  blobs/blobfox blobs/blobfox.clean blobs/blobfox.meta blobs/blobfox.assets blobs/blobfox.check \
+  blobs/cat_is_blob blobs/cat_is_blob.clean blobs/cat_is_blob.meta blobs/cat_is_blob.assets blobs/cat_is_blob.check \
+  blobs/meowmoji blobs/meowmoji.clean blobs/meowmoji.meta blobs/meowmoji.assets blobs/meowmoji.check \
+  blobs/queercats blobs/queercats.clean blobs/queercats.meta blobs/queercats.assets blobs/queercats.check
