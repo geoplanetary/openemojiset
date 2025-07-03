@@ -1,12 +1,12 @@
 # OpenEmojiSet
 
-all:  barcode blobs bunhd game handwritten letters prideflags twemoji
+all:  barcode blobs bunhd game handwritten letters prideflags roadsign twemoji
 
-clean: barcode.clean blobs.clean bunhd.clean emojis.clean game.clean handwritten.clean letters.clean prideflags.clean twemoji.clean
+clean: barcode.clean blobs.clean bunhd.clean emojis.clean game.clean handwritten.clean letters.clean prideflags.clean roadsign.clean twemoji.clean
 
-assets: barcode.assets blobs.assets bunhd.assets game.assets handwritten.assets letters.assets prideflags.assets twemoji.assets
+assets: barcode.assets blobs.assets bunhd.assets game.assets handwritten.assets letters.assets prideflags.assets roadsign.assets twemoji.assets
 
-check:  barcode.check blobs.check bunhd.check emojis.check game.check handwritten.check letters.check prideflags.check twemoji.check
+check:  barcode.check blobs.check bunhd.check emojis.check game.check handwritten.check letters.check prideflags.check roadsign.check twemoji.check
 
 help:
 	@echo "build mi-openmojiset"
@@ -18,7 +18,7 @@ help:
 	@echo "* check  | check metadata integrity"
 	@echo "* emojis | build emoji bundle package"
 	@echo "Individual targets:"
-	@echo "> barcode blobs bunhd game handwritten letters prideflags twemoji"
+	@echo "> barcode blobs bunhd game handwritten letters prideflags roadsign twemoji"
 	@echo "* <target>.clean  | clean target"
 	@echo "* <target>.assets | build assets"
 	@echo "* <target>.check  | check metadata integrity"
@@ -32,6 +32,7 @@ include game.mk
 include handwritten.mk
 include letters.mk
 include prideflags.mk
+include roadsign.mk
 include twemoji.mk
 
 # Emoji Bundle------------------------ #
@@ -56,6 +57,7 @@ emojis.meta= \
   $(handwritten.meta) \
   $(letters.meta) \
   $(prideflags.meta) \
+  $(roadsign.meta) \
   $(twemoji.meta)
 
 emojis.meta: $(emojis.meta)
@@ -72,6 +74,7 @@ emojis.assets= \
   $(handwritten.assets) \
   $(letters.assets) \
   $(prideflags.assets) \
+  $(roadsign.assets) \
   $(twemoji.assets)
 
 emojis.assets: $(emojis.assets)
